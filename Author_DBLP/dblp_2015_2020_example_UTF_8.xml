@@ -1,33 +1,7767 @@
 <?xml version="1.0"?><!DOCTYPE dblp SYSTEM "dblp-2017-08-29.dtd"><dblp>
-<article mdate="2020-06-25" key="tr/meltdown/m18" publtype="informal">
+<article mdate="2021-03-24" key="journals/apjor/LuoLFC17">
 
-	<author>Moritz Lipp</author>
+	<author>Xiaoxiao Luo</author>
 
-	<author>Michael Schwarz 0001</author>
+	<author>Minqiang Li</author>
 
-	<author>Daniel Gruss</author>
+	<author>Nan Feng</author>
 
-	<author>Thomas Prescher 0002</author>
+	<author>Fuzan Chen</author>
 
-	<author>Werner Haas 0004</author>
+	<title>Optimal Design on Customized Bundling Strategy of Information Goods for Customers with Two-Dimensional Heterogeneity.</title>
 
-	<author>Stefan Mangard</author>
+	<pages>1750007:1-1750007:32</pages>
 
-	<author>Paul Kocher</author>
+	<year>2017</year>
 
-	<author>Daniel Genkin</author>
+	<volume>34</volume>
 
-	<author>Yuval Yarom</author>
+	<journal>Asia Pac. J. Oper. Res.</journal>
 
-	<author>Mike Hamburg</author>
+	<number>2</number>
 
-	<title>Meltdown</title>
+	<ee>https://doi.org/10.1142/S0217595917500075</ee>
 
-	<journal>meltdownattack.com</journal>
+	<url>db/journals/apjor/apjor34.html#LuoLFC17</url>
 
-	<ee type="oa">https://meltdownattack.com/meltdown.pdf</ee>
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/YangKJ19">
+
+	<author>Feng Yang 0005</author>
+
+	<author>Junjun Kong</author>
+
+	<author>Minyue Jin</author>
+
+	<title>Two-Period Pricing with Selling Effort in the Presence of Strategic Customers.</title>
+
+	<pages>1950011:1-1950011:21</pages>
+
+	<year>2019</year>
+
+	<volume>36</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595919500118</ee>
+
+	<url>db/journals/apjor/apjor36.html#YangKJ19</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ChoiP18">
+
+	<author>Byung-Cheon Choi</author>
+
+	<author orcid="0000-0003-3382-6514">Myoung-Ju Park</author>
+
+	<title>Just-In-Time Scheduling with Generalized Due Dates and Identical Due Date Intervals.</title>
+
+	<pages>1850046:1-1850046:13</pages>
 
 	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S021759591850046X</ee>
+
+	<url>db/journals/apjor/apjor35.html#ChoiP18</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ShanSY17">
+
+	<author>Siqing Shan</author>
+
+	<author>Jihong Shi</author>
+
+	<author>Qi Yan</author>
+
+	<title>Blog Recommendation and Management Implications in an Emergency Context: An Information Entropy Perspective.</title>
+
+	<pages>1740007:1-1740007:22</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S0217595917400073</ee>
+
+	<url>db/journals/apjor/apjor34.html#ShanSY17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/HouH15">
+
+	<author>Jing Hou</author>
+
+	<author>Xiangpei Hu</author>
+
+	<title>Comparative Studies of Three Backup Contracts Under Supply Disruptions.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500062</ee>
+
+	<url>db/journals/apjor/apjor32.html#HouH15</url>
+
+	<pages>1550006:1-1550006:22</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/LiWW15">
+
+	<author>Xin-Jun Li</author>
+
+	<author>Jian-Jun Wang 0001</author>
+
+	<author>Xue-Ru Wang</author>
+
+	<title>Single-Machine Scheduling with Learning Effect, Deteriorating Jobs and Convex Resource Dependent Processing Times.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500335</ee>
+
+	<url>db/journals/apjor/apjor32.html#LiWW15</url>
+
+	<pages>1550033:1-1550033:12</pages>
+
+</article>
+
+<article mdate="2021-02-25" key="journals/apjor/MaZBH20">
+
+	<author>Benjiang Ma</author>
+
+	<author>Zhongmin Zhou</author>
+
+	<author>Muhammad Farhan Bashir</author>
+
+	<author>Yuan-Ji Huang</author>
+
+	<title>A Multi-Attribute Reverse Auction Model on Margin Bidding.</title>
+
+	<pages>2050032:1-2050032:21</pages>
+
+	<year>2020</year>
+
+	<volume>37</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S0217595920500323</ee>
+
+	<url>db/journals/apjor/apjor37.html#MaZBH20</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/LuTF15">
+
+	<author>Yuan-Yuan Lu</author>
+
+	<author>Fei Teng</author>
+
+	<author>Zhi-Xin Feng</author>
+
+	<title>Scheduling Jobs with Truncated Exponential Sum-of-Logarithm-Processing-Times Based and Position-based Learning Effects.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500268</ee>
+
+	<url>db/journals/apjor/apjor32.html#LuTF15</url>
+
+	<pages>1550026:1-1550026:17</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/EfrosininWM15">
+
+	<author orcid="0000-0002-0902-6640">Dmitry Efrosinin</author>
+
+	<author>Anastasia Winkler</author>
+
+	<author>Martin Pinzger 0002</author>
+
+	<title>Confidence Intervals for Performance Measures of M/M/1 Queue with Constant Retrial Policy.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500463</ee>
+
+	<url>db/journals/apjor/apjor32.html#EfrosininWM15</url>
+
+	<pages>1550046:1-1550046:12</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/EydiF16">
+
+	<author>Alireza Eydi</author>
+
+	<author>Leyla Fazli</author>
+
+	<title>A Multi-Period Multiple Objective Uncertain Programming Model to Allocate Order for Supplier Selection Problem.</title>
+
+	<pages>1650045:1-1650045:40</pages>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500457</ee>
+
+	<url>db/journals/apjor/apjor33.html#EydiF16</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/LiuXY18">
+
+	<author>Zheng Liu</author>
+
+	<author orcid="0000-0002-4901-6877">Qi Xu</author>
+
+	<author>Kun Yang</author>
+
+	<title>Optimal Independent Pricing Strategies of Dual-Channel Supply Chain Based on Risk-Aversion Attitudes.</title>
+
+	<pages>1840004:1-1840004:17</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1142/S0217595918400043</ee>
+
+	<url>db/journals/apjor/apjor35.html#LiuXY18</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/FanWY19">
+
+	<author>Jun Fan</author>
+
+	<author>Liqun Wang</author>
+
+	<author>Ailing Yan</author>
+
+	<title>An Inexact Projected Gradient Method for Sparsity-Constrained Quadratic Measurements Regression.</title>
+
+	<pages>1940008:1-1940008:21</pages>
+
+	<year>2019</year>
+
+	<volume>36</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1142/S0217595919400086</ee>
+
+	<url>db/journals/apjor/apjor36.html#FanWY19</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/Park17">
+
+	<author>Changkyu Park</author>
+
+	<title>A Partial Backordering Inventory Model with a Drop-Shipping Option Under Purchase Dependence.</title>
+
+	<pages>1750016:1-1750016:20</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1142/S0217595917500166</ee>
+
+	<url>db/journals/apjor/apjor34.html#Park17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ShenW18">
+
+	<author>Yichi Shen</author>
+
+	<author>Kan Wu</author>
+
+	<title>Stability of a GI/G/1 Queue: A Survey.</title>
+
+	<pages>1850015:1-1850015:15</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S021759591850015X</ee>
+
+	<url>db/journals/apjor/apjor35.html#ShenW18</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/MaZLL19">
+
+	<author>Qingqing Ma</author>
+
+	<author>Yiqiang Q. Zhao</author>
+
+	<author>Weiqi Liu</author>
+
+	<author>Jihong Li</author>
+
+	<title>Customer Strategic Joining Behavior in Markovian Queues with Working Vacations and Vacation Interruptions Under Bernoulli Schedule.</title>
+
+	<pages>1950003:1-1950003:26</pages>
+
+	<year>2019</year>
+
+	<volume>36</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S0217595919500039</ee>
+
+	<url>db/journals/apjor/apjor36.html#MaZLL19</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/TaoLC16">
+
+	<author>Yi Tao</author>
+
+	<author orcid="0000-0001-9359-0027">Loo Hay Lee</author>
+
+	<author>Ek Peng Chew</author>
+
+	<title>Quantifying the Effect of Sharing Information in a Supply Chain Facing Supply Disruptions.</title>
+
+	<pages>1650029:1-1650029:28</pages>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500299</ee>
+
+	<url>db/journals/apjor/apjor33.html#TaoLC16</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/El-Hadidy16">
+
+	<author>Mohamed Abd Allah El-Hadidy</author>
+
+	<title>On Maximum Discounted Effort Reward Search Problem.</title>
+
+	<pages>1650019:1-1650019:30</pages>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500196</ee>
+
+	<url>db/journals/apjor/apjor33.html#El-Hadidy16</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/XuWLT18">
+
+	<author orcid="0000-0002-4901-6877">Qi Xu</author>
+
+	<author>Wenjie Wang</author>
+
+	<author>Zheng Liu</author>
+
+	<author>Pan Tong</author>
+
+	<title>The Influence of Online Subsidies Service on Online-to-Offline Supply Chain.</title>
+
+	<pages>1840007:1-1840007:18</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1142/S0217595918400079</ee>
+
+	<url>db/journals/apjor/apjor35.html#XuWLT18</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ZhaoY17">
+
+	<author>Qiulan Zhao</author>
+
+	<author>Jinjiang Yuan</author>
+
+	<title>Rescheduling to Minimize the Maximum Lateness Under the Sequence Disruptions of Original Jobs.</title>
+
+	<pages>1750024:1-1750024:12</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595917500245</ee>
+
+	<url>db/journals/apjor/apjor34.html#ZhaoY17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/TongHH17">
+
+	<author>Jun Tong</author>
+
+	<author>Jian-Qiang Hu</author>
+
+	<author>Jiaqiao Hu</author>
+
+	<title>A Computational Algorithm for Equilibrium Asset Pricing Under Heterogeneous Information and Short-Sale Constraints.</title>
+
+	<pages>1750025:1-1750025:16</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595917500257</ee>
+
+	<url>db/journals/apjor/apjor34.html#TongHH17</url>
+
+</article>
+
+<article mdate="2021-02-25" key="journals/apjor/0001WLL20">
+
+	<author>Zai-Yun Peng 0001</author>
+
+	<author>Jing-Jing Wang</author>
+
+	<author>Xian-Jun Long</author>
+
+	<author>Fuping Liu</author>
+
+	<title>Painlevé-Kuratowski Convergence of Solutions for Perturbed Symmetric Set-Valued Quasi-Equilibrium Problem via Improvement Sets.</title>
+
+	<pages>2040003:1-2040003:22</pages>
+
+	<year>2020</year>
+
+	<volume>37</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1142/S0217595920400035</ee>
+
+	<url>db/journals/apjor/apjor37.html#0001WLL20</url>
+
+</article>
+
+<article mdate="2021-02-25" key="journals/apjor/NakadeN20">
+
+	<author>Koichi Nakade</author>
+
+	<author>Shunta Nishimura</author>
+
+	<title>Service Rate and Admission Control in an M/G/1 Queue with State-Dependent Arrival Rates.</title>
+
+	<pages>2050033:1-2050033:23</pages>
+
+	<year>2020</year>
+
+	<volume>37</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S0217595920500335</ee>
+
+	<url>db/journals/apjor/apjor37.html#NakadeN20</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/BaiHL19">
+
+	<author>Xue-Li Bai</author>
+
+	<author>Zheng-Hai Huang</author>
+
+	<author>Xia Li</author>
+
+	<title>Stability of Solutions and Continuity of Solution Maps of Tensor Complementarity Problems.</title>
+
+	<pages>1940002:1-1940002:19</pages>
+
+	<year>2019</year>
+
+	<volume>36</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1142/S0217595919400025</ee>
+
+	<url>db/journals/apjor/apjor36.html#BaiHL19</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/WangXXY15">
+
+	<author>Kai Wang</author>
+
+	<author>Zhongkai Xiong</author>
+
+	<author>Yu Xiong</author>
+
+	<author>Wei Yan 0003</author>
+
+	<title>Remanufacturer-Manufacturer Collaboration in a Supply Chain: The Manufacturer Plays the Leader Role.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500402</ee>
+
+	<url>db/journals/apjor/apjor32.html#WangXXY15</url>
+
+	<pages>1550040:1-1550040:17</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/LiC17">
+
+	<author>Shi-Sheng Li</author>
+
+	<author>Ren-Xia Chen</author>
+
+	<title>Scheduling with Rejection and a Deteriorating Maintenance Activity on a Single Machine.</title>
+
+	<pages>1750010:1-1750010:17</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1142/S0217595917500105</ee>
+
+	<url>db/journals/apjor/apjor34.html#LiC17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/Sedeno-Noda16">
+
+	<author orcid="0000-0003-0681-4585">Antonio Sedeño-Noda</author>
+
+	<title>Ranking One Million Simple Paths in Road Networks.</title>
+
+	<pages>1650042:1-1650042:20</pages>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500421</ee>
+
+	<url>db/journals/apjor/apjor33.html#Sedeno-Noda16</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/AbdiBA18">
+
+	<author>Soheila Abdi</author>
+
+	<author orcid="0000-0001-9963-4772">Fahimeh Baroughi Bonab</author>
+
+	<author orcid="0000-0001-5726-2843">Behrooz Alizadeh</author>
+
+	<title>The Minimum Cost Flow Problem of Uncertain Random Network.</title>
+
+	<pages>1850016:1-1850016:18</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595918500161</ee>
+
+	<url>db/journals/apjor/apjor35.html#AbdiBA18</url>
+
+</article>
+
+<article mdate="2021-02-25" key="journals/apjor/000119">
+
+	<author>Michael C. Fu 0001</author>
+
+	<title>Simulation-Based Algorithms for Markov Decision Processes: Monte Carlo Tree Search from AlphaGo to AlphaZero.</title>
+
+	<pages>1940009:1-1940009:25</pages>
+
+	<year>2019</year>
+
+	<volume>36</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S0217595919400098</ee>
+
+	<url>db/journals/apjor/apjor36.html#000119</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ZhaoLW15">
+
+	<author>Ning Zhao</author>
+
+	<author>Zhaotong Lian</author>
+
+	<author orcid="0000-0002-8306-5066">Kan Wu</author>
+
+	<title>Analysis of a MAP/PH/1 Queue with Discretionary Priority Based on Service Stages.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500426</ee>
+
+	<url>db/journals/apjor/apjor32.html#ZhaoLW15</url>
+
+	<pages>1550042:1-1550042:22</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/LiuY18">
+
+	<author>Qijia Liu</author>
+
+	<author>Jinjiang Yuan</author>
+
+	<title>Online Scheduling of Incompatible Family Jobs with Equal Length on an Unbounded Parallel-Batch Machine with Job Delivery.</title>
+
+	<pages>1850026:1-1850026:12</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1142/S0217595918500264</ee>
+
+	<url>db/journals/apjor/apjor35.html#LiuY18</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/Aviles-SacotoCG18">
+
+	<author>Sonia Valeria Avilés-Sacoto</author>
+
+	<author>Wade D. Cook</author>
+
+	<author>David Güemes-Castorena</author>
+
+	<author orcid="0000-0003-4867-5149">Francisco Benita</author>
+
+	<author>Hector Ceballos</author>
+
+	<author>Joe Zhu</author>
+
+	<title>Evaluating the Efficiencies of Academic Research Groups: A Problem of Shared Outputs.</title>
+
+	<pages>1850042:1-1850042:22</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S0217595918500422</ee>
+
+	<url>db/journals/apjor/apjor35.html#Aviles-SacotoCG18</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/DuH18">
+
+	<author>Ni Du</author>
+
+	<author>Qinglan Han</author>
+
+	<title>Pricing and Service Quality Guarantee Decisions in Logistics Service Supply Chain with Fairness Concern.</title>
+
+	<pages>1850036:1-1850036:41</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595918500367</ee>
+
+	<url>db/journals/apjor/apjor35.html#DuH18</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/WuLWH17">
+
+	<author>Zhongming Wu</author>
+
+	<author>Min Li</author>
+
+	<author>David Z. W. Wang</author>
+
+	<author>Deren Han</author>
+
+	<title>A Symmetric Alternating Direction Method of Multipliers for Separable Nonconvex Minimization Problems.</title>
+
+	<pages>1750030:1-1750030:27</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S0217595917500300</ee>
+
+	<url>db/journals/apjor/apjor34.html#WuLWH17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ShenGGZ18">
+
+	<author>Jie Shen</author>
+
+	<author>Yali Gao</author>
+
+	<author>Fang-Fang Guo</author>
+
+	<author>Rui Zhao</author>
+
+	<title>A Redistributed Bundle Algorithm for Generalized Variational Inequality Problems in Hilbert Spaces.</title>
+
+	<pages>1850019:1-1850019:18</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1142/S0217595918500197</ee>
+
+	<url>db/journals/apjor/apjor35.html#ShenGGZ18</url>
+
+</article>
+
+<article mdate="2021-04-09" key="journals/apjor/ParkCMK20">
+
+	<author orcid="0000-0003-3382-6514">Myoung-Ju Park</author>
+
+	<author>Byung-Cheon Choi</author>
+
+	<author>Yunhong Min</author>
+
+	<author>Kyung Min Kim</author>
+
+	<title>Two-Machine Ordered Flow Shop Scheduling with Generalized Due Dates.</title>
+
+	<pages>1950032:1-1950032:16</pages>
+
+	<year>2020</year>
+
+	<volume>37</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S0217595919500325</ee>
+
+	<url>db/journals/apjor/apjor37.html#ParkCMK20</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/CuiLCX16">
+
+	<author>Li Cui</author>
+
+	<author>Lu Liu 0010</author>
+
+	<author>Di-Rong Chen</author>
+
+	<author>Jianfeng Xie</author>
+
+	<title>Recovery of Low Rank Symmetric Matrices via Schatten p Norm Minimization.</title>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500032</ee>
+
+	<url>db/journals/apjor/apjor33.html#CuiLCX16</url>
+
+	<pages>1650003:1-1650003:11</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/WuWZWP19">
+
+	<author>Qiong Wu</author>
+
+	<author>Jin-He Wang</author>
+
+	<author>Hong-Wei Zhang</author>
+
+	<author>Shuang Wang</author>
+
+	<author>Li-Ping Pang 0001</author>
+
+	<title>Nonsmooth Optimization Method for H&#8734; Output Feedback Control.</title>
+
+	<pages>1950015:1-1950015:23</pages>
+
+	<year>2019</year>
+
+	<volume>36</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595919500155</ee>
+
+	<url>db/journals/apjor/apjor36.html#WuWZWP19</url>
+
+</article>
+
+<article mdate="2021-04-09" key="journals/apjor/ShenC17">
+
+	<author orcid="0000-0002-1420-0658">Bin Shen 0006</author>
+
+	<author orcid="0000-0002-2531-3084">Hau-Ling Chan</author>
+
+	<title>Forecast Information Sharing for Managing Supply Chains in the Big Data Era: Recent Development and Future Research.</title>
+
+	<pages>1740001:1-1740001:26</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S0217595917400012</ee>
+
+	<url>db/journals/apjor/apjor34.html#ShenC17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/MaSLW15">
+
+	<author>Wei-Min Ma</author>
+
+	<author>Li Sun</author>
+
+	<author>S. C. Liu</author>
+
+	<author>T. H. Wu</author>
+
+	<title>Parallel-Machine Scheduling with Delivery Times and Deteriorating Maintenance.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500293</ee>
+
+	<url>db/journals/apjor/apjor32.html#MaSLW15</url>
+
+	<pages>1550029:1-1550029:14</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/Liu16">
+
+	<author>Yang Liu 0131</author>
+
+	<title>On Low Rank Approximation of Linear Operators in p-Norms and Some Algorithms.</title>
+
+	<pages>1650023:1-1650023:12</pages>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500238</ee>
+
+	<url>db/journals/apjor/apjor33.html#Liu16</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/LeeP15">
+
+	<author>Zon-Yau Lee</author>
+
+	<author>Chung-Che Pai</author>
+
+	<title>Applying Improved DEA &amp; VIKOR Methods to Evaluate the Operation Performance for World's Major TFT-LCD Manufacturers.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500207</ee>
+
+	<url>db/journals/apjor/apjor32.html#LeeP15</url>
+
+	<pages>1550020:1-1550020:33</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/LinCFX18">
+
+	<author>Bing Lin</author>
+
+	<author>Shaoxiang Chen</author>
+
+	<author>Yi Feng</author>
+
+	<author>Jianjun Xu</author>
+
+	<title>The Joint Stock and Capacity Rationings of a Make-To-Stock System with Flexible Demand.</title>
+
+	<pages>1850004:1-1850004:27</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S0217595918500045</ee>
+
+	<url>db/journals/apjor/apjor35.html#LinCFX18</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ChoiP15">
+
+	<author orcid="0000-0002-7479-6473">Byung-Cheon Choi</author>
+
+	<author orcid="0000-0003-3382-6514">Myoung-Ju Park</author>
+
+	<title>Min-Max Regret Version of the Linear Time-Cost Tradeoff Problem with Multiple Milestones and Completely Ordered Jobs.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500396</ee>
+
+	<url>db/journals/apjor/apjor32.html#ChoiP15</url>
+
+	<pages>1550039:1-1550039:16</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/SeoLC15">
+
+	<author>Dong-Won Seo</author>
+
+	<author>Jinpyo Lee</author>
+
+	<author>Byeong-Yun Chang</author>
+
+	<title>An Approximation Method for Blocking Probabilities in M/D/1/K<sub>1</sub> &#8594; &#8901;/D/1/K<sub>2</sub> Queues.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500177</ee>
+
+	<url>db/journals/apjor/apjor32.html#SeoLC15</url>
+
+	<pages>1550017:1-1550017:12</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ZhaoC18">
+
+	<author>Qi Zhao</author>
+
+	<author>Zhongwen Chen</author>
+
+	<title>An SQP-type Method with Superlinear Convergence for Nonlinear Semidefinite Programming.</title>
+
+	<pages>1850009:1-1850009:25</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595918500094</ee>
+
+	<url>db/journals/apjor/apjor35.html#ZhaoC18</url>
+
+</article>
+
+<article mdate="2021-02-25" key="journals/apjor/ChenDZL20">
+
+	<author>Hongqiao Chen</author>
+
+	<author>Xiaosong Ding</author>
+
+	<author>Jihong Zhang</author>
+
+	<author>Huayi Li</author>
+
+	<title>Optimal Production-Inventory Policy for a Periodic-Review Energy Buy-Back System over an Infinite Planning Horizon.</title>
+
+	<pages>2050001:1-2050001:32</pages>
+
+	<year>2020</year>
+
+	<volume>37</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1142/S0217595920500013</ee>
+
+	<url>db/journals/apjor/apjor37.html#ChenDZL20</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/LiY15">
+
+	<author>Wenjie Li</author>
+
+	<author>Jinjiang Yuan</author>
+
+	<title>An Improved Online Algorithm for the Online Preemptive Scheduling of Equal-Length Intervals on a Single Machine with Lookahead.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500475</ee>
+
+	<url>db/journals/apjor/apjor32.html#LiY15</url>
+
+	<pages>1550047:1-1550047:9</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/PadronG19">
+
+	<author>Silvia Padrón</author>
+
+	<author>Daniel Guimarans</author>
+
+	<title>An Improved Method for Scheduling Aircraft Ground Handling Operations From a Global Perspective.</title>
+
+	<pages>1950020:1-1950020:25</pages>
+
+	<year>2019</year>
+
+	<volume>36</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1142/S0217595919500209</ee>
+
+	<url>db/journals/apjor/apjor36.html#PadronG19</url>
+
+</article>
+
+<article mdate="2021-05-11" key="journals/apjor/LiXXTY17">
+
+	<author>Jian Li</author>
+
+	<author>Zhenjing Xu</author>
+
+	<author>Huijuan Xu 0002</author>
+
+	<author>Ling Tang</author>
+
+	<author>Lean Yu</author>
+
+	<title>Forecasting Oil Price Trends with Sentiment of Online News Articles.</title>
+
+	<pages>1740019:1-1740019:22</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1142/S021759591740019X</ee>
+
+	<url>db/journals/apjor/apjor34.html#LiXXTY17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/FengW18">
+
+	<author>Yi Feng</author>
+
+	<author>Qing Wu</author>
+
+	<title>Option Contract Design and Risk Analysis: Supplier's Perspective.</title>
+
+	<pages>1850017:1-1850017:13</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595918500173</ee>
+
+	<url>db/journals/apjor/apjor35.html#FengW18</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/PengPCZ18">
+
+	<author orcid="0000-0001-5377-0955">Hongjun Peng</author>
+
+	<author>Tao Pang</author>
+
+	<author>Fuliang Cao</author>
+
+	<author>Juan Zhao</author>
+
+	<title>A Mutual Subsidy Mechanism for a Seasonal Product Supply Chain Channel Under Double Price Regulation.</title>
+
+	<pages>1850047:1-1850047:26</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S0217595918500471</ee>
+
+	<url>db/journals/apjor/apjor35.html#PengPCZ18</url>
+
+</article>
+
+<article mdate="2021-02-25" key="journals/apjor/PengW20">
+
+	<author>Zhenhua Peng</author>
+
+	<author>Zhongping Wan</author>
+
+	<title>Second-Order Composed Contingent Derivative of the Perturbation Map in Multiobjective Optimization.</title>
+
+	<pages>2050002:1-2050002:23</pages>
+
+	<year>2020</year>
+
+	<volume>37</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1142/S0217595920500025</ee>
+
+	<url>db/journals/apjor/apjor37.html#PengW20</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ZhangWLC15">
+
+	<author>Xuemei Zhang</author>
+
+	<author>Yao Wei</author>
+
+	<author>Jiqiong Liu</author>
+
+	<author>Gang Chen</author>
+
+	<title>Product Design Strategy with Commonality by Considering Customer-Choice Behavior in Supply Chain.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500372</ee>
+
+	<url>db/journals/apjor/apjor32.html#ZhangWLC15</url>
+
+	<pages>1550037:1-1550037:22</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/YuanZ16">
+
+	<author>Xi Gang Yuan</author>
+
+	<author>Nan Zhu</author>
+
+	<title>Bullwhip Effect Analysis in Two-Level Supply Chain Distribution Network Using Different Demand Forecasting Technology.</title>
+
+	<pages>1650016:1-1650016:23</pages>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500160</ee>
+
+	<url>db/journals/apjor/apjor33.html#YuanZ16</url>
+
+</article>
+
+<article mdate="2021-04-09" key="journals/apjor/ZhaoZP20">
+
+	<author>Qitong Zhao</author>
+
+	<author orcid="0000-0001-8459-1722">Chenhao Zhou</author>
+
+	<author>Giulia Pedrielli</author>
+
+	<title>A Decision Support System for Data-Driven Driver-Experience Augmented Vehicle Routing Problem.</title>
+
+	<pages>2050018:1-2050018:23</pages>
+
+	<year>2020</year>
+
+	<volume>37</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595920500189</ee>
+
+	<url>db/journals/apjor/apjor37.html#ZhaoZP20</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ChatterjeeS17">
+
+	<author>Subhashis Chatterjee</author>
+
+	<author>Ankur Shukla</author>
+
+	<title>An Ideal Software Release Policy for an Improved Software Reliability Growth Model Incorporating Imperfect Debugging with Fault Removal Efficiency and Change Point.</title>
+
+	<pages>1740017:1-1740017:21</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595917400176</ee>
+
+	<url>db/journals/apjor/apjor34.html#ChatterjeeS17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ChoiP15a">
+
+	<author orcid="0000-0002-7479-6473">Byung-Cheon Choi</author>
+
+	<author orcid="0000-0003-3382-6514">Myoung-Ju Park</author>
+
+	<title>A Batch Scheduling Problem with Two Agents.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S021759591550044X</ee>
+
+	<url>db/journals/apjor/apjor32.html#ChoiP15a</url>
+
+	<pages>1550044:1-1550044:19</pages>
+
+</article>
+
+<article mdate="2021-04-09" key="journals/apjor/BobdeT20">
+
+	<author>Sudhir M. Bobde</author>
+
+	<author orcid="0000-0002-8606-865X">Makoto Tanaka</author>
+
+	<title>Structural Reforms and Technical Efficiency in the Indian Electricity Distribution Sector.</title>
+
+	<pages>2050004:1-2050004:36</pages>
+
+	<year>2020</year>
+
+	<volume>37</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1142/S0217595920500049</ee>
+
+	<url>db/journals/apjor/apjor37.html#BobdeT20</url>
+
+</article>
+
+<article mdate="2021-04-09" key="journals/apjor/Avinadav16">
+
+	<author orcid="0000-0002-7519-2946">Tal Avinadav</author>
+
+	<title>Stochastic Periodic-Review Models with Duration- and Quantity-Dependent Inventory Costs: Properties and Approximations.</title>
+
+	<pages>1650030:1-1650030:25</pages>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500305</ee>
+
+	<url>db/journals/apjor/apjor33.html#Avinadav16</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ZhaoT15">
+
+	<author>Chuanli Zhao</author>
+
+	<author>Hengyong Tang</author>
+
+	<title>Due-Window Assignment for a Single Machine Scheduling with Both Deterioration and Positional Effects.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500141</ee>
+
+	<url>db/journals/apjor/apjor32.html#ZhaoT15</url>
+
+	<pages>1550014:1-1550014:11</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/Murakami18">
+
+	<author>Keisuke Murakami</author>
+
+	<title>Iterative Column Generation Algorithm for Generalized Multi-Vehicle Covering Tour Problem.</title>
+
+	<pages>1850021:1-1850021:22</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1142/S0217595918500215</ee>
+
+	<url>db/journals/apjor/apjor35.html#Murakami18</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/WangHL15">
+
+	<author>Xuyin Wang</author>
+
+	<author>Xiangpei Hu</author>
+
+	<author>Weiguo Liu</author>
+
+	<title>Scheduling with Deteriorating Jobs and Non-Simultaneous Machine Available Times.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500499</ee>
+
+	<url>db/journals/apjor/apjor32.html#WangHL15</url>
+
+	<pages>1550049:1-1550049:13</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/QiuCY18">
+
+	<author>Qijun Qiu</author>
+
+	<author>Ying-Ju Chen</author>
+
+	<author>Benjamin P.-C. Yen</author>
+
+	<title>The Implications of Group-Buying as a Channel Option Under Capacity Constraint.</title>
+
+	<pages>1850022:1-1850022:32</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1142/S0217595918500227</ee>
+
+	<url>db/journals/apjor/apjor35.html#QiuCY18</url>
+
+</article>
+
+<article mdate="2021-02-25" key="journals/apjor/UllahHJ20">
+
+	<author>Azmat Ullah</author>
+
+	<author>Wenpo Huang</author>
+
+	<author>Wei Jiang</author>
+
+	<title>Product and After-Sales Maintenance Service Pricing Decisions in a Risk-Averse Supply Chain.</title>
+
+	<pages>2050031:1-2050031:42</pages>
+
+	<year>2020</year>
+
+	<volume>37</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S0217595920500311</ee>
+
+	<url>db/journals/apjor/apjor37.html#UllahHJ20</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/QinRX17">
+
+	<author>Juanjuan Qin</author>
+
+	<author>Liguo Ren</author>
+
+	<author>Liangjie Xia</author>
+
+	<title>Carbon Emission Reduction and Pricing Strategies of Supply Chain under Various Demand Forecasting Scenarios.</title>
+
+	<pages>1740005:1-1740005:27</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S021759591740005X</ee>
+
+	<url>db/journals/apjor/apjor34.html#QinRX17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ZhaoT16">
+
+	<author>Chuanli Zhao</author>
+
+	<author>Hengyong Tang</author>
+
+	<title>Scheduling Deteriorating Jobs with Availability Constraints to Minimize the Makespan.</title>
+
+	<pages>1650048:1-1650048:10</pages>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500482</ee>
+
+	<url>db/journals/apjor/apjor33.html#ZhaoT16</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/XuDS15">
+
+	<author orcid="0000-0002-1472-3950">Genjiu Xu</author>
+
+	<author>Han Dai</author>
+
+	<author>Haobin Shi</author>
+
+	<title>Axiomatizations and a Noncooperative Interpretation of the &#945;-CIS Value.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500311</ee>
+
+	<url>db/journals/apjor/apjor32.html#XuDS15</url>
+
+	<pages>1550031:1-1550031:15</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/Mondal18">
+
+	<author>Sakib A. Mondal</author>
+
+	<title>Improved Algorithm for Resource Allocation Problems.</title>
+
+	<pages>1850006:1-1850006:23</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S0217595918500069</ee>
+
+	<url>db/journals/apjor/apjor35.html#Mondal18</url>
+
+</article>
+
+<article mdate="2021-02-25" key="journals/apjor/ZhangZ20">
+
+	<author>Tianyu Zhang</author>
+
+	<author>Liwei Zhang</author>
+
+	<title>Critical Multipliers in Semidefinite Programming.</title>
+
+	<pages>2040012:1-2040012:20</pages>
+
+	<year>2020</year>
+
+	<volume>37</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1142/S0217595920400126</ee>
+
+	<url>db/journals/apjor/apjor37.html#ZhangZ20</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/MaJ16">
+
+	<author>Weimin Ma</author>
+
+	<author>Xiaodong Ji</author>
+
+	<title>Online Work-Break Problem and its Competitive Analysis.</title>
+
+	<pages>1650011:1-1650011:17</pages>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500111</ee>
+
+	<url>db/journals/apjor/apjor33.html#MaJ16</url>
+
+</article>
+
+<article mdate="2021-02-25" key="journals/apjor/SunYSL19">
+
+	<author>Zhuo Sun</author>
+
+	<author>Ni Yan</author>
+
+	<author>Yining Sun</author>
+
+	<author>Haobin Li</author>
+
+	<title>Location-Routing Optimization with Split Demand for Customer Self-Pickup via Data Analysis and Heuristics Search.</title>
+
+	<pages>1940013:1-1940013:24</pages>
+
+	<year>2019</year>
+
+	<volume>36</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S021759591940013X</ee>
+
+	<url>db/journals/apjor/apjor36.html#SunYSL19</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/LanLN17">
+
+	<author>Yanfei Lan</author>
+
+	<author>Zhibing Liu</author>
+
+	<author>Baozhuang Niu</author>
+
+	<title>Pricing and Design of After-Sales Service Contract: The Value of Mining Asymmetric Sales Cost Information.</title>
+
+	<pages>1740002:1-1740002:25</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S0217595917400024</ee>
+
+	<url>db/journals/apjor/apjor34.html#LanLN17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/YangXJWZ19">
+
+	<author>Ruiqi Yang</author>
+
+	<author>Dachuan Xu</author>
+
+	<author>Yanjun Jiang</author>
+
+	<author>Yishui Wang</author>
+
+	<author>Dongmei Zhang</author>
+
+	<title>Approximating Robust Parameterized Submodular Function Maximization in Large-Scales.</title>
+
+	<pages>1950022:1-1950022:24</pages>
+
+	<year>2019</year>
+
+	<volume>36</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1142/S0217595919500222</ee>
+
+	<url>db/journals/apjor/apjor36.html#YangXJWZ19</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/FangC17">
+
+	<author>Jian-Wen Fang</author>
+
+	<author>Yung-Ho Chiu</author>
+
+	<title>Research on Innovation Efficiency and Technology Gap in China Economic Development.</title>
+
+	<pages>1750005:1-1750005:22</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1142/S0217595917500051</ee>
+
+	<url>db/journals/apjor/apjor34.html#FangC17</url>
+
+</article>
+
+<article mdate="2021-02-25" key="journals/apjor/CuiSH20">
+
+	<author>Kaiyan Cui</author>
+
+	<author>Zhanjie Song</author>
+
+	<author>Ningning Han</author>
+
+	<title>Fast Thresholding Algorithms with Feedbacks and Partially Known Support for Compressed Sensing.</title>
+
+	<pages>2050013:1-2050013:20</pages>
+
+	<year>2020</year>
+
+	<volume>37</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S021759592050013X</ee>
+
+	<url>db/journals/apjor/apjor37.html#CuiSH20</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/TanWLF16">
+
+	<author>Qian-Yun Tan</author>
+
+	<author>Cui-Ping Wei</author>
+
+	<author>Qi Liu</author>
+
+	<author>Xiang-Qian Feng</author>
+
+	<title>The Hesitant Fuzzy Linguistic TOPSIS Method Based on Novel Information Measures.</title>
+
+	<pages>1650035:1-1650035:22</pages>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500354</ee>
+
+	<url>db/journals/apjor/apjor33.html#TanWLF16</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/LiMX17">
+
+	<author orcid="0000-0002-7127-1102">Guo Li 0001</author>
+
+	<author>Hui Mao</author>
+
+	<author>Lei Xiao</author>
+
+	<title>Impacts of Leader-Follower Structure on Pricing and Production Strategies in a Decentralized Assembly System.</title>
+
+	<pages>1740003:1-1740003:24</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S0217595917400036</ee>
+
+	<url>db/journals/apjor/apjor34.html#LiMX17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/LiuWR15">
+
+	<author>Chun-an Liu</author>
+
+	<author>Yuping Wang 0003</author>
+
+	<author>Aihong Ren</author>
+
+	<title>New Dynamic Multi-Objective Constrained Optimization Evolutionary Algorithm.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500360</ee>
+
+	<url>db/journals/apjor/apjor32.html#LiuWR15</url>
+
+	<pages>1550036:1-1550036:23</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/XingFSZ15">
+
+	<author>Wenxun Xing</author>
+
+	<author>Shu-Cherng Fang</author>
+
+	<author>Ruey-Lin Sheu</author>
+
+	<author>Liping Zhang</author>
+
+	<title>Canonical Dual Solutions to Quadratic Optimization over One Quadratic Constraint.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S0217595915400072</ee>
+
+	<ee>https://www.wikidata.org/entity/Q57438661</ee>
+
+	<url>db/journals/apjor/apjor32.html#XingFSZ15</url>
+
+	<pages>1540007:1-1540007:21</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/QuCMY15">
+
+	<author>Xing-Long Qu</author>
+
+	<author>Zhigang Cao 0002</author>
+
+	<author>Yi-Fen Mu</author>
+
+	<author>Xiao Guang Yang 0001</author>
+
+	<title>Repeated Sequential Prisoner's Dilemma: The Stackleberg Variant.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S0217595915400096</ee>
+
+	<url>db/journals/apjor/apjor32.html#QuCMY15</url>
+
+	<pages>1540009:1-1540009:23</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/MirjaberiM16">
+
+	<author>Mahdi Mirjaberi</author>
+
+	<author orcid="0000-0002-0282-1801">Reza Kazemi Matin</author>
+
+	<title>On the Calculation of Directional Scale Elasticity in Data Envelopment Analysis.</title>
+
+	<pages>1650026:1-1650026:17</pages>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500263</ee>
+
+	<url>db/journals/apjor/apjor33.html#MirjaberiM16</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/HuWL19">
+
+	<author>Xuejun Hu</author>
+
+	<author>Jianjiang Wang</author>
+
+	<author>Kaijun Leng</author>
+
+	<title>The Interaction Between Critical Chain Sequencing, Buffer Sizing, and Reactive Actions in a CC/BM Framework.</title>
+
+	<pages>1950010:1-1950010:22</pages>
+
+	<year>2019</year>
+
+	<volume>36</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595919500106</ee>
+
+	<url>db/journals/apjor/apjor36.html#HuWL19</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/GongZL17">
+
+	<author>Hua Gong</author>
+
+	<author>Ermei Zhang</author>
+
+	<author>Fang Liu 0015</author>
+
+	<title>Bicriteria Scheduling on a Single Batching Machine with Transportation and Deterioration to Minimize Total Completion Time and Production Costs.</title>
+
+	<pages>1740014:1-1740014:18</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595917400140</ee>
+
+	<url>db/journals/apjor/apjor34.html#GongZL17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/WudhikarnCN15">
+
+	<author>Ratapol Wudhikarn</author>
+
+	<author>Nopasit Chakpitak</author>
+
+	<author>Gilles Neubert</author>
+
+	<title>Use of an Analytic Network Process and Monte Carlo Analysis in New Product Formula Selection Decisions.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500074</ee>
+
+	<url>db/journals/apjor/apjor32.html#WudhikarnCN15</url>
+
+	<pages>1550007:1-1550007:28</pages>
+
+</article>
+
+<article mdate="2021-02-25" key="journals/apjor/Chen0ZZ20">
+
+	<author>Jian Chen</author>
+
+	<author>Michael C. Fu 0001</author>
+
+	<author>Wenhong Zhang</author>
+
+	<author>Junhua Zheng</author>
+
+	<title>Predictive Modeling for Epidemic Outbreaks: A New Approach and COVID-19 Case Study.</title>
+
+	<pages>2050028:1-2050028:21</pages>
+
+	<year>2020</year>
+
+	<volume>37</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595920500281</ee>
+
+	<url>db/journals/apjor/apjor37.html#Chen0ZZ20</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/DuLRLL19">
+
+	<author>Tao Du</author>
+
+	<author>Danyang Li</author>
+
+	<author>Yan Ren</author>
+
+	<author>Chong Lu</author>
+
+	<author>Wanquan Liu</author>
+
+	<title>Semantic Concept Extraction for Eyebrow Shapes via AFS Clustering.</title>
+
+	<pages>1950030:1-1950030:25</pages>
+
+	<year>2019</year>
+
+	<volume>36</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595919500301</ee>
+
+	<url>db/journals/apjor/apjor36.html#DuLRLL19</url>
+
+</article>
+
+<article mdate="2021-02-25" key="journals/apjor/WangWHLY0W19">
+
+	<author>Derui Wang</author>
+
+	<author>Yanfeng Wu</author>
+
+	<author>Jian-Qiang Hu</author>
+
+	<author>Miaomiao Liu</author>
+
+	<author>Peiwen Yu</author>
+
+	<author>Cheng Zhang 0001</author>
+
+	<author>Yan Wu</author>
+
+	<title>Flight Schedule Recovery: A Simulation-Based Approach.</title>
+
+	<pages>1940010:1-1940010:19</pages>
+
+	<year>2019</year>
+
+	<volume>36</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S0217595919400104</ee>
+
+	<url>db/journals/apjor/apjor36.html#WangWHLY0W19</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ShiL16">
+
+	<author>Ying Shi</author>
+
+	<author>Zhaotong Lian</author>
+
+	<title>Equilibrium Strategies and Optimal Control for a Double-Ended Queue.</title>
+
+	<pages>1650022:1-1650022:18</pages>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500226</ee>
+
+	<url>db/journals/apjor/apjor33.html#ShiL16</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/TangMO17">
+
+	<author orcid="0000-0002-9950-5169">Lixin Tang</author>
+
+	<author>Ilias Mamat</author>
+
+	<author>Tatsuo Oyama</author>
+
+	<title>Preface of Special Issue of APJOR Operational Research (OR) and Environment.</title>
+
+	<pages>1702002:1-1702002:2</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S021759591702002X</ee>
+
+	<url>db/journals/apjor/apjor34.html#TangMO17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/YangHQZ17">
+
+	<author>Yuxiang Yang</author>
+
+	<author>Zuqing Huang</author>
+
+	<author>Qiang Patrick Qiang</author>
+
+	<author>Gengui Zhou</author>
+
+	<title>A Mathematical Programming Model with Equilibrium Constraints for Competitive Closed-Loop Supply Chain Network Design.</title>
+
+	<pages>1750026:1-1750026:31</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595917500269</ee>
+
+	<url>db/journals/apjor/apjor34.html#YangHQZ17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ZhangXL18">
+
+	<author>Cui-Hua Zhang</author>
+
+	<author>Peng Xing</author>
+
+	<author>Jin Li</author>
+
+	<title>Optimal Strategy of Social Responsibility and Quality Effort in Service Supply Chain with Quality Preference.</title>
+
+	<pages>1850018:1-1850018:43</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595918500185</ee>
+
+	<url>db/journals/apjor/apjor35.html#ZhangXL18</url>
+
+</article>
+
+<article mdate="2021-02-25" key="journals/apjor/DongCHG20">
+
+	<author>Xiaomei Dong</author>
+
+	<author>Xingju Cai</author>
+
+	<author>Deren Han</author>
+
+	<author>Zhili Ge</author>
+
+	<title>Solving a Class of Variational Inequality Problems with a New Inexact Strategy.</title>
+
+	<pages>1950038:1-1950038:20</pages>
+
+	<year>2020</year>
+
+	<volume>37</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S0217595919500386</ee>
+
+	<url>db/journals/apjor/apjor37.html#DongCHG20</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/DuXX15">
+
+	<author orcid="0000-0003-0111-8572">Donglei Du</author>
+
+	<author>Naihua Xiu</author>
+
+	<author>Dachuan Xu</author>
+
+	<title>Guest Editorial.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S0217595915020017</ee>
+
+	<url>db/journals/apjor/apjor32.html#DuXX15</url>
+
+	<pages>1502001:1-1502001:2</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/CaoLW17">
+
+	<author>Qian Cao</author>
+
+	<author>Yi Li</author>
+
+	<author orcid="0000-0002-9298-1023">Guohua Wan</author>
+
+	<title>Online Order Scheduling Problem with the Same Order Size on Two Identical Machines.</title>
+
+	<pages>1750006:1-1750006:9</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1142/S0217595917500063</ee>
+
+	<url>db/journals/apjor/apjor34.html#CaoLW17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/AtabakiMN17">
+
+	<author>Mohammad Saeid Atabaki</author>
+
+	<author orcid="0000-0002-3655-2742">Mohammad Mohammadi 0002</author>
+
+	<author>Bahman Naderi</author>
+
+	<title>Hybrid Genetic Algorithm and Invasive Weed Optimization via Priority Based Encoding for Location-Allocation Decisions in a Three-Stage Supply Chain.</title>
+
+	<pages>1750008:1-1750008:44</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1142/S0217595917500087</ee>
+
+	<url>db/journals/apjor/apjor34.html#AtabakiMN17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ShiLF16">
+
+	<author>Ying Shi</author>
+
+	<author>Xin Li</author>
+
+	<author>Ping Fan</author>
+
+	<title>Optimization of an M/M/&#8734; Queueing System with Free Experience Service.</title>
+
+	<pages>1650051:1-1650051:17</pages>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500512</ee>
+
+	<url>db/journals/apjor/apjor33.html#ShiLF16</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ChenZ17">
+
+	<author>Jianxin Chen</author>
+
+	<author>Yong-Wu Zhou</author>
+
+	<title>A Risk-Averse Newsvendor Model Under Trade Credit Contract with CVaR.</title>
+
+	<pages>1740012:1-1740012:20</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595917400127</ee>
+
+	<url>db/journals/apjor/apjor34.html#ChenZ17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/Triki17">
+
+	<author>Chefi Triki</author>
+
+	<title>Solving the Periodic Edge Routing Problem in the Municipal Waste Collection.</title>
+
+	<pages>1740015:1-1740015:13</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595917400152</ee>
+
+	<url>db/journals/apjor/apjor34.html#Triki17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/YangTZL17">
+
+	<author>Xixi Yang</author>
+
+	<author>Jiyang Tan</author>
+
+	<author>Hanjun Zhang</author>
+
+	<author>Ziqiang Li</author>
+
+	<title>An Optimal Control Problem in a Risk Model with Stochastic Premiums and Periodic Dividend Payments.</title>
+
+	<pages>1740013:1-1740013:18</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595917400139</ee>
+
+	<url>db/journals/apjor/apjor34.html#YangTZL17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/WangWW16">
+
+	<author>Zhenyou Wang</author>
+
+	<author>Cai-Min Wei</author>
+
+	<author>Yu-Bin Wu</author>
+
+	<title>Single Machine Two-Agent Scheduling with Deteriorating Jobs.</title>
+
+	<pages>1650034:1-1650034:17</pages>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500342</ee>
+
+	<url>db/journals/apjor/apjor33.html#WangWW16</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/AlmomaniA16">
+
+	<author>Mohammad H. Almomani</author>
+
+	<author orcid="0000-0002-2291-9670">Mahmoud H. Alrefaei</author>
+
+	<title>Ordinal Optimization with Computing Budget Allocation for Selecting an Optimal Subset.</title>
+
+	<pages>1650009:1-1650009:17</pages>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500093</ee>
+
+	<url>db/journals/apjor/apjor33.html#AlmomaniA16</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/IzadikhahSA17">
+
+	<author orcid="0000-0002-9195-017X">Mohammad Izadikhah</author>
+
+	<author orcid="0000-0002-0851-6509">Reza Farzipoor Saen</author>
+
+	<author>Kourosh Ahmadi</author>
+
+	<title>How to Assess Sustainability of Suppliers in the Presence of Dual-Role Factor and Volume Discounts? A Data Envelopment Analysis Approach.</title>
+
+	<pages>1740016:1-1740016:25</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595917400164</ee>
+
+	<ee>https://www.wikidata.org/entity/Q59165092</ee>
+
+	<url>db/journals/apjor/apjor34.html#IzadikhahSA17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/RallabandiVR16">
+
+	<author>L. N. Pradeep Kumar Rallabandi</author>
+
+	<author>Ravindranath Vandrangi</author>
+
+	<author orcid="0000-0002-3532-1598">Subba Rao Rachakonda</author>
+
+	<title>Improved Consistency Ratio for Pairwise Comparison Matrix in Analytic Hierarchy Processes.</title>
+
+	<pages>1650020:1-1650020:19</pages>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500202</ee>
+
+	<url>db/journals/apjor/apjor33.html#RallabandiVR16</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ZhangWQM18">
+
+	<author>Canrong Zhang</author>
+
+	<author>Tao Wu 0004</author>
+
+	<author orcid="0000-0002-3678-6522">Mingyao Qi</author>
+
+	<author>Lixin Miao</author>
+
+	<title>Simultaneous Allocation of Berths and Quay Cranes under Discrete Berth Situation.</title>
+
+	<pages>1850011:1-1850011:28</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595918500112</ee>
+
+	<url>db/journals/apjor/apjor35.html#ZhangWQM18</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/SenDM16">
+
+	<author>Dilip Kumar Sen</author>
+
+	<author orcid="0000-0001-5550-8627">Saurav Datta</author>
+
+	<author>Siba Sankar Mahapatra</author>
+
+	<title>A TODIM-Based Decision Support Framework for G-Resilient Supplier Selection in Fuzzy Environment.</title>
+
+	<pages>1650033:1-1650033:40</pages>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500330</ee>
+
+	<url>db/journals/apjor/apjor33.html#SenDM16</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/WangLZ17">
+
+	<author>Qing Wang</author>
+
+	<author>Zhaojun Liu</author>
+
+	<author>Yang Zhang</author>
+
+	<title>A Novel Weighting Method for Finding Common Weights in DEA.</title>
+
+	<pages>1750027:1-1750027:21</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595917500270</ee>
+
+	<url>db/journals/apjor/apjor34.html#WangLZ17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ChengMSB18">
+
+	<author>Xiaoying Cheng</author>
+
+	<author>Lifeng Mu</author>
+
+	<author>Yanhong Sun</author>
+
+	<author>Yiwen Bian</author>
+
+	<title>Optimal Pricing Decisions for the Online Video Platform Under Customer Choice.</title>
+
+	<pages>1850002:1-1850002:21</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S0217595918500021</ee>
+
+	<url>db/journals/apjor/apjor35.html#ChengMSB18</url>
+
+</article>
+
+<article mdate="2021-02-25" key="journals/apjor/SharafiLJR20">
+
+	<author>Hamid Sharafi</author>
+
+	<author>Farhad Hosseinzadeh Lotfi</author>
+
+	<author>Gholam Reza Jahanshahloo</author>
+
+	<author>Somayeh Razipour-GhalehJough</author>
+
+	<title>Fair Allocation Fixed Cost Using Cross-Efficiency Based on Pareto Concept.</title>
+
+	<pages>1950036:1-1950036:23</pages>
+
+	<year>2020</year>
+
+	<volume>37</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S0217595919500362</ee>
+
+	<url>db/journals/apjor/apjor37.html#SharafiLJR20</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ChanM15">
+
+	<author orcid="0000-0002-8756-2991">Ka Ching Chan</author>
+
+	<author>Terry M. Mills</author>
+
+	<title>Modeling Competition over Product Life Cycles.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500219</ee>
+
+	<ee>https://www.wikidata.org/entity/Q56172871</ee>
+
+	<url>db/journals/apjor/apjor32.html#ChanM15</url>
+
+	<pages>1550021:1-1550021:16</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ThanosCS16">
+
+	<author>Aristotelis E. Thanos</author>
+
+	<author>Nurcin Celik</author>
+
+	<author>Juan Pablo Sáenz</author>
+
+	<title>An Evolutionary Sequential Sampling Algorithm for Multi-Objective Optimization.</title>
+
+	<year>2016</year>
+
+	<volume>33</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S0217595916500068</ee>
+
+	<url>db/journals/apjor/apjor33.html#ThanosCS16</url>
+
+	<pages>1650006:1-1650006:21</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/RaiconiPGVC17">
+
+	<author>Andrea Raiconi</author>
+
+	<author orcid="0000-0003-1163-5952">Julia Pahl</author>
+
+	<author>Monica Gentili</author>
+
+	<author>Stefan Voß</author>
+
+	<author>Raffaele Cerulli</author>
+
+	<title>Tactical Production and Lot Size Planning with Lifetime Constraints: A Comparison of Model Formulations.</title>
+
+	<pages>1750019:1-1750019:24</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>5</number>
+
+	<ee>https://doi.org/10.1142/S0217595917500191</ee>
+
+	<url>db/journals/apjor/apjor34.html#RaiconiPGVC17</url>
+
+</article>
+
+<article mdate="2021-02-25" key="journals/apjor/WangF0Y20">
+
+	<author>Tianjiao Wang</author>
+
+	<author>Yelin Fu</author>
+
+	<author>Hao Luo 0008</author>
+
+	<author>Jerome Yen</author>
+
+	<title>Measuring Olympics Achievements via Stochastic Multicriteria Acceptability Analysis.</title>
+
+	<pages>2050030:1-2050030:20</pages>
+
+	<year>2020</year>
+
+	<volume>37</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S021759592050030X</ee>
+
+	<url>db/journals/apjor/apjor37.html#WangF0Y20</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/ChaoCZ15">
+
+	<author>Miantao Chao</author>
+
+	<author>Caozong Cheng</author>
+
+	<author>Haibin Zhang</author>
+
+	<title>A Linearized Alternating Direction Method of Multipliers with Substitution Procedure.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500116</ee>
+
+	<url>db/journals/apjor/apjor32.html#ChaoCZ15</url>
+
+	<pages>1550011:1-1550011:19</pages>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/Jiang18">
+
+	<author>Tao Jiang</author>
+
+	<title>Analysis of a Tollbooth Tandem Queue with Two-Class Customers and Two Heterogeneous Dedicated Servers.</title>
+
+	<pages>1850043:1-1850043:21</pages>
+
+	<year>2018</year>
+
+	<volume>35</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>6</number>
+
+	<ee>https://doi.org/10.1142/S0217595918500434</ee>
+
+	<url>db/journals/apjor/apjor35.html#Jiang18</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/YuWZ19">
+
+	<author>Xiaohong Yu</author>
+
+	<author>Sujuan Wang</author>
+
+	<author>Xindong Zhang</author>
+
+	<title>Ordering Decision and Coordination of a Dual-Channel Supply Chain with Fairness Concerns Under an Online-to-Offline Model.</title>
+
+	<pages>1940004:1-1940004:26</pages>
+
+	<year>2019</year>
+
+	<volume>36</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1142/S0217595919400049</ee>
+
+	<url>db/journals/apjor/apjor36.html#YuWZ19</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/DingT17">
+
+	<author>Xuejun Ding</author>
+
+	<author>Yong Tian</author>
+
+	<title>Predicting Retweeting Behavior Based on BPNN in Emergency Incidents.</title>
+
+	<pages>1740011:1-1740011:17</pages>
+
+	<year>2017</year>
+
+	<volume>34</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1142/S0217595917400115</ee>
+
+	<url>db/journals/apjor/apjor34.html#DingT17</url>
+
+</article>
+
+<article mdate="2021-03-24" key="journals/apjor/LiuC15">
+
+	<author>Lu Liu 0010</author>
+
+	<author>Di-Rong Chen</author>
+
+	<title>Convergence of &#8467;<sub>2/3</sub> Regularization for Sparse Signal Recovery.</title>
+
+	<year>2015</year>
+
+	<volume>32</volume>
+
+	<journal>Asia Pac. J. Oper. Res.</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1142/S0217595915500232</ee>
+
+	<url>db/journals/apjor/apjor32.html#LiuC15</url>
+
+	<pages>1550023:1-1550023:20</pages>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Whitelaw15">
+
+	<author>Mitchell Whitelaw</author>
+
+	<title><i>Accretor</i>: Generative Materiality in the Work of Driessens and Verstappen.</title>
+
+	<pages>307-312</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00171</ee>
+
+	<ee>https://www.wikidata.org/entity/Q40305979</ee>
+
+	<url>db/journals/alife/alife21.html#Whitelaw15</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/GreenbaumP17">
+
+	<author>Benjamin Greenbaum</author>
+
+	<author>A. N. Pargellis</author>
+
+	<title>Self-Replicators Emerge from a Self-Organizing Prebiotic Computer World.</title>
+
+	<pages>318-342</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00234</ee>
+
+	<ee>https://www.wikidata.org/entity/Q50508172</ee>
+
+	<url>db/journals/alife/alife23.html#GreenbaumP17</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Williams16">
+
+	<author>Lance R. Williams</author>
+
+	<title>Programs as Polypeptides.</title>
+
+	<pages>451-482</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00213</ee>
+
+	<ee>https://www.wikidata.org/entity/Q51567920</ee>
+
+	<url>db/journals/alife/alife22.html#Williams16</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/HickinbothamCNS16">
+
+	<author>Simon J. Hickinbotham</author>
+
+	<author>Edward Clark</author>
+
+	<author>Adam Nellis</author>
+
+	<author>Susan Stepney</author>
+
+	<author>Tim Clarke</author>
+
+	<author orcid="0000-0001-5259-4830">Peter Young</author>
+
+	<title>Maximizing the Adjacent Possible in Automata Chemistries.</title>
+
+	<pages>49-75</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00180</ee>
+
+	<ee>https://www.wikidata.org/entity/Q51574990</ee>
+
+	<url>db/journals/alife/alife22.html#HickinbothamCNS16</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/GuttenbergVP19">
+
+	<author>Nicholas Guttenberg</author>
+
+	<author>Nathaniel Virgo</author>
+
+	<author>Alexandra S. Penn</author>
+
+	<title>On the Potential for Open-Endedness in Neural Networks.</title>
+
+	<pages>145-167</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00286</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92439703</ee>
+
+	<url>db/journals/alife/alife25.html#GuttenbergVP19</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/BuckinghamB17">
+
+	<author>David Buckingham</author>
+
+	<author>Josh Bongard</author>
+
+	<title>Physical Scaffolding Accelerates the Evolution of Robot Behavior.</title>
+
+	<pages>351-373</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00236</ee>
+
+	<ee>https://www.wikidata.org/entity/Q38635120</ee>
+
+	<url>db/journals/alife/alife23.html#BuckinghamB17</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Stanley19">
+
+	<author>Kenneth O. Stanley</author>
+
+	<title>Why Open-Endedness Matters.</title>
+
+	<pages>232-235</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00294</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92520486</ee>
+
+	<url>db/journals/alife/alife25.html#Stanley19</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Beer15">
+
+	<author>Randall D. Beer</author>
+
+	<title>Characterizing Autopoiesis in the Game of Life.</title>
+
+	<pages>1-19</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00143</ee>
+
+	<ee>https://www.wikidata.org/entity/Q87640719</ee>
+
+	<url>db/journals/alife/alife21.html#Beer15</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/MorenoO19">
+
+	<author>Matthew Andres Moreno</author>
+
+	<author>Charles Ofria</author>
+
+	<title>Toward Open-Ended Fraternal Transitions in Individuality.</title>
+
+	<pages>117-133</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00284</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92439677</ee>
+
+	<url>db/journals/alife/alife25.html#MorenoO19</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/RobuSNP19">
+
+	<author>Andrei D. Robu</author>
+
+	<author>Christoph Salge</author>
+
+	<author>Chrystopher L. Nehaniv</author>
+
+	<author>Daniel Polani</author>
+
+	<title>Measuring Time with Minimal Clocks.</title>
+
+	<pages>383-409</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00303</ee>
+
+	<ee>https://www.wikidata.org/entity/Q91163939</ee>
+
+	<url>db/journals/alife/alife25.html#RobuSNP19</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/EgbertP18">
+
+	<author>Matthew D. Egbert</author>
+
+	<author>Juan Pérez-Mercader</author>
+
+	<title>Methods for Measuring Viability and Evaluating Viability Indicators.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00257</ee>
+
+	<ee>https://www.wikidata.org/entity/Q52319104</ee>
+
+	<url>db/journals/alife/alife24.html#EgbertP18</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/ScheperC17">
+
+	<author orcid="0000-0003-2770-5556">Kirk Y. W. Scheper</author>
+
+	<author>Guido C. H. E. de Croon</author>
+
+	<title>Abstraction, Sensory-Motor Coordination, and the Reality Gap in Evolutionary Robotics.</title>
+
+	<pages>124-141</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00227</ee>
+
+	<ee>https://www.wikidata.org/entity/Q50871859</ee>
+
+	<url>db/journals/alife/alife23.html#ScheperC17</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/GreenfieldM15">
+
+	<author>Gary Greenfield</author>
+
+	<author>Penousal Machado</author>
+
+	<title>Ant- and Ant-Colony-Inspired ALife Visual Art.</title>
+
+	<pages>293-306</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00170</ee>
+
+	<ee>https://www.wikidata.org/entity/Q38413026</ee>
+
+	<url>db/journals/alife/alife21.html#GreenfieldM15</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/LaBarHA16">
+
+	<author>Thomas LaBar</author>
+
+	<author>Arend Hintze</author>
+
+	<author orcid="0000-0002-2915-9504">Christoph Adami</author>
+
+	<title>Evolvability Tradeoffs in Emergent Digital Replicators.</title>
+
+	<pages>483-498</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00214</ee>
+
+	<ee>https://www.wikidata.org/entity/Q40418774</ee>
+
+	<url>db/journals/alife/alife22.html#LaBarHA16</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Stepney17">
+
+	<author>Susan Stepney</author>
+
+	<title>Book Review: Search and Construct.</title>
+
+	<pages>449-451</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_r_00239</ee>
+
+	<url>db/journals/alife/alife23.html#Stepney17</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/SaundersB15">
+
+	<author>Rob Saunders</author>
+
+	<author>Oliver Bown</author>
+
+	<title>Computational Social Creativity.</title>
+
+	<pages>366-378</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00177</ee>
+
+	<ee>https://www.wikidata.org/entity/Q50874823</ee>
+
+	<url>db/journals/alife/alife21.html#SaundersB15</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/CejkovaHS18">
+
+	<author>Jitka Cejková</author>
+
+	<author>Martin M. Hanczyc</author>
+
+	<author orcid="0000-0001-9288-4568">Frantisek Stepánek</author>
+
+	<title>Multi-Armed Droplets as Shape-Changing Protocells.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00255</ee>
+
+	<ee>https://www.wikidata.org/entity/Q47700980</ee>
+
+	<url>db/journals/alife/alife24.html#CejkovaHS18</url>
+
+</article>
+
+<article mdate="2020-12-29" key="journals/alife/GershensonTWS20">
+
+	<author>Carlos Gershenson</author>
+
+	<author orcid="0000-0002-9114-8486">Vito Trianni</author>
+
+	<author>Justin Werfel</author>
+
+	<author>Hiroki Sayama</author>
+
+	<title>Self-Organization and Artificial Life.</title>
+
+	<pages>391-408</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00324</ee>
+
+	<ee>https://www.wikidata.org/entity/Q97649377</ee>
+
+	<url>db/journals/alife/alife26.html#GershensonTWS20</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Adamatzky15">
+
+	<author>Andrew Adamatzky</author>
+
+	<title>A Would-Be Nervous System Made from a Slime Mold.</title>
+
+	<pages>73-91</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00153</ee>
+
+	<ee>https://www.wikidata.org/entity/Q86304814</ee>
+
+	<url>db/journals/alife/alife21.html#Adamatzky15</url>
+
+</article>
+
+<article mdate="2020-08-13" key="journals/alife/LuoZRY20">
+
+	<author>Tian-tong Luo</author>
+
+	<author>Jian-long Zhu</author>
+
+	<author>Trond Reitan</author>
+
+	<author>Gabriel Yedid</author>
+
+	<title>Alteration of (Frequency-Dependent) Fitness in Time-Shift Experiments Reveals Cryptic Coevolution and Uncoordinated Stasis in a Virtual Jurassic Park.</title>
+
+	<pages>196-216</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00305</ee>
+
+	<ee>https://www.wikidata.org/entity/Q91761090</ee>
+
+	<url>db/journals/alife/alife26.html#LuoZRY20</url>
+
+</article>
+
+<article mdate="2020-10-26" key="journals/alife/NicheleGT16">
+
+	<author>Stefano Nichele</author>
+
+	<author>Andreas Giskeødegård</author>
+
+	<author orcid="0000-0001-7428-1608">Gunnar Tufte</author>
+
+	<title>Evolutionary Growth of Genome Representations on Artificial Cellular Organisms with Indirect Encodings.</title>
+
+	<pages>76-111</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00191</ee>
+
+	<ee>https://www.wikidata.org/entity/Q50547618</ee>
+
+	<url>db/journals/alife/alife22.html#NicheleGT16</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/CejkovaBHS17">
+
+	<author>Jitka Cejková</author>
+
+	<author orcid="0000-0002-7480-4242">Taisuke Banno</author>
+
+	<author>Martin M. Hanczyc</author>
+
+	<author orcid="0000-0001-9288-4568">Frantisek Stepánek</author>
+
+	<title>Droplets As Liquid Robots.</title>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00243</ee>
+
+	<ee>https://www.wikidata.org/entity/Q47594958</ee>
+
+	<url>db/journals/alife/alife23.html#CejkovaBHS17</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/RasmussenS19">
+
+	<author>Steen Rasmussen</author>
+
+	<author>Paolo Sibani</author>
+
+	<title>Two Modes of Evolution: Optimization and Expansion.</title>
+
+	<pages>9-21</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00277</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92748796</ee>
+
+	<url>db/journals/alife/alife25.html#RasmussenS19</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/KingAZP15">
+
+	<author>Philip H. King</author>
+
+	<author>Chinnu H. Abraham</author>
+
+	<author>Klaus-Peter Zauner</author>
+
+	<author orcid="0000-0002-8787-0513">Maurits R. R. de Planque</author>
+
+	<title>Excitability Modulation of Oscillating Media in 3D-Printed Structures.</title>
+
+	<pages>225-233</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00158</ee>
+
+	<ee>https://www.wikidata.org/entity/Q58621073</ee>
+
+	<url>db/journals/alife/alife21.html#KingAZP15</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/LuoHKHRYXZY18">
+
+	<author>Tian-tong Luo</author>
+
+	<author>Lise Heier</author>
+
+	<author>Zaki Ahmad Khan</author>
+
+	<author>Faraz Hasan</author>
+
+	<author>Trond Reitan</author>
+
+	<author>Abdool S. Yasseen III</author>
+
+	<author>Zi-xuan Xie</author>
+
+	<author>Jian-long Zhu</author>
+
+	<author>Gabriel Yedid</author>
+
+	<title>Examining Community Stability in the Face of Mass Extinction in Communities of Digital Organisms.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00272</ee>
+
+	<ee>https://www.wikidata.org/entity/Q91220960</ee>
+
+	<url>db/journals/alife/alife24.html#LuoHKHRYXZY18</url>
+
+</article>
+
+<article mdate="2020-10-26" key="journals/alife/ErbasBW15">
+
+	<author orcid="0000-0003-1762-0428">Mehmet Dinçer Erbas</author>
+
+	<author>Larry Bull</author>
+
+	<author orcid="0000-0002-1476-3127">Alan F. T. Winfield</author>
+
+	<title>On the Evolution of Behaviors through Embodied Imitation.</title>
+
+	<pages>141-165</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00164</ee>
+
+	<ee>https://www.wikidata.org/entity/Q50588015</ee>
+
+	<url>db/journals/alife/alife21.html#ErbasBW15</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Hamann15">
+
+	<author>Heiko Hamann</author>
+
+	<title>Lessons from Speciation Dynamics: How to Generate Selective Pressure Towards Diversity.</title>
+
+	<pages>464-480</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00186</ee>
+
+	<ee>https://www.wikidata.org/entity/Q86642268</ee>
+
+	<url>db/journals/alife/alife21.html#Hamann15</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/AckleyA16">
+
+	<author>David H. Ackley</author>
+
+	<author>Elena S. Ackley</author>
+
+	<title>The <i>ulam</i> Programming Language for Artificial Life.</title>
+
+	<pages>431-450</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00212</ee>
+
+	<ee>https://www.wikidata.org/entity/Q40418765</ee>
+
+	<url>db/journals/alife/alife22.html#AckleyA16</url>
+
+</article>
+
+<article mdate="2020-06-15" key="journals/alife/FuW0Y19">
+
+	<author>Qinbing Fu</author>
+
+	<author>Hongxin Wang</author>
+
+	<author orcid="0000-0002-1177-2167">Cheng Hu 0006</author>
+
+	<author>Shigang Yue</author>
+
+	<title>Towards Computational Models and Applications of Insect Visual Systems for Motion Perception: A Review.</title>
+
+	<pages>263-311</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00297</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92520496</ee>
+
+	<url>db/journals/alife/alife25.html#FuW0Y19</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/RieffelMBH17">
+
+	<author>John Rieffel</author>
+
+	<author orcid="0000-0002-2513-027X">Jean-Baptiste Mouret</author>
+
+	<author>Nicolas Bredèche</author>
+
+	<author>Evert Haasdijk</author>
+
+	<title>Introduction to the Evolution of Physical Systems Special Issue.</title>
+
+	<pages>119-123</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_e_00232</ee>
+
+	<ee>https://www.wikidata.org/entity/Q53288104</ee>
+
+	<url>db/journals/alife/alife23.html#RieffelMBH17</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Penn17">
+
+	<author>Alexandra S. Penn</author>
+
+	<title>A New Home for a Vital Conversation: Introducing the ALife Societal Impact Section and Going Back to Bio-Inspiration for the Internet.</title>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_e_00246</ee>
+
+	<ee>https://www.wikidata.org/entity/Q49558652</ee>
+
+	<url>db/journals/alife/alife23.html#Penn17</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Sayama19">
+
+	<author>Hiroki Sayama</author>
+
+	<title>Cardinality Leap for Open-Ended Evolution: Theoretical Consideration and Demonstration by Hash Chemistry.</title>
+
+	<pages>104-116</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00283</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92439687</ee>
+
+	<url>db/journals/alife/alife25.html#Sayama19</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/SinghAPBL18">
+
+	<author>Karandeep Singh</author>
+
+	<author>Chang-Won Ahn</author>
+
+	<author>Euihyun Paik</author>
+
+	<author>Jang Won Bae</author>
+
+	<author>Chun-Hee Lee</author>
+
+	<title>A Micro-Level Data-Calibrated Agent-Based Model: The Synergy between Microsimulation and Agent-Based Modeling.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00260</ee>
+
+	<ee>https://www.wikidata.org/entity/Q53408751</ee>
+
+	<url>db/journals/alife/alife24.html#SinghAPBL18</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/AmosRMD15">
+
+	<author>Martyn Amos</author>
+
+	<author>Steen Rasmussen</author>
+
+	<author orcid="0000-0002-3408-7357">John S. McCaskill</author>
+
+	<author>Peter Dittrich</author>
+
+	<title>Editorial.</title>
+
+	<pages>193-194</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_e_00161</ee>
+
+	<ee>https://www.wikidata.org/entity/Q86600654</ee>
+
+	<url>db/journals/alife/alife21.html#AmosRMD15</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Penn18a">
+
+	<author>Alexandra S. Penn</author>
+
+	<title>Moving from Overwhelming to Actionable Complexity in Population Health Policy: Can ALife help?</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/artl_e_00265</ee>
+
+	<ee>https://www.wikidata.org/entity/Q93367131</ee>
+
+	<url>db/journals/alife/alife24.html#Penn18a</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/WitkowskiI19">
+
+	<author>Olaf Witkowski</author>
+
+	<author>Takashi Ikegami</author>
+
+	<title>How to Make Swarms Open-Ended? Evolving Collective Intelligence Through a Constricted Exploration of Adjacent Possibles.</title>
+
+	<pages>178-197</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00288</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92439692</ee>
+
+	<url>db/journals/alife/alife25.html#WitkowskiI19</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/WeinersmithWW18">
+
+	<author>Zach Weinersmith</author>
+
+	<author>Kelly Weinersmith</author>
+
+	<author>Michael J. Wiser</author>
+
+	<title><i>Soonish: Ten Emerging Technologies That'll Improve and/or Ruin Everything</i> by Zach and Kelly Weinersmith. (2017, Penguin Press). Hardcover, 368 pages.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/artl_r_00266</ee>
+
+	<url>db/journals/alife/alife24.html#WeinersmithWW18</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/AgmonEV18">
+
+	<author>Eran Agmon</author>
+
+	<author>Matthew D. Egbert</author>
+
+	<author>Nathaniel Virgo</author>
+
+	<title>The Biological Foundations of Enactivism: A Report on a Workshop Held at Artificial Life XV.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00253</ee>
+
+	<ee>https://www.wikidata.org/entity/Q49709796</ee>
+
+	<url>db/journals/alife/alife24.html#AgmonEV18</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Boden15">
+
+	<author>Margaret A. Boden</author>
+
+	<title>Creativity and ALife.</title>
+
+	<pages>354-365</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00176</ee>
+
+	<ee>https://www.wikidata.org/entity/Q50866343</ee>
+
+	<url>db/journals/alife/alife21.html#Boden15</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/ScheperTVC16">
+
+	<author orcid="0000-0003-2770-5556">Kirk Y. W. Scheper</author>
+
+	<author>Sjoerd Tijmons</author>
+
+	<author orcid="0000-0002-4653-0002">Cornelis C. de Visser</author>
+
+	<author>Guido C. H. E. de Croon</author>
+
+	<title>Behavior Trees for Evolutionary Robotics.</title>
+
+	<pages>23-48</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00192</ee>
+
+	<ee>https://www.wikidata.org/entity/Q86804235</ee>
+
+	<url>db/journals/alife/alife22.html#ScheperTVC16</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/MasumoriSMMBFTI20">
+
+	<author>Atsushi Masumori</author>
+
+	<author>Lana Sinapayen</author>
+
+	<author>Norihiro Maruyama</author>
+
+	<author>Takeshi Mita</author>
+
+	<author>Douglas J. Bakkum</author>
+
+	<author>Urs Frey</author>
+
+	<author>Hirokazu Takahashi</author>
+
+	<author>Takashi Ikegami</author>
+
+	<title>Neural Autopoiesis: Organizing Self-Boundaries by Stimulus Avoidance in Biological and Artificial Neural Networks.</title>
+
+	<pages>130-151</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00314</ee>
+
+	<ee>https://www.wikidata.org/entity/Q89573850</ee>
+
+	<url>db/journals/alife/alife26.html#MasumoriSMMBFTI20</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Penny15">
+
+	<author>Simon Penny</author>
+
+	<title>Emergence, Agency, and Interaction - Notes from the Field.</title>
+
+	<pages>271-284</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00167</ee>
+
+	<ee>https://www.wikidata.org/entity/Q46575308</ee>
+
+	<url>db/journals/alife/alife21.html#Penny15</url>
+
+</article>
+
+<article mdate="2021-02-11" key="journals/alife/HowisonHHI20">
+
+	<author>Toby Howison</author>
+
+	<author>Simon Hauser</author>
+
+	<author>Josie Hughes</author>
+
+	<author>Fumiya Iida</author>
+
+	<title>Reality-Assisted Evolution of Soft Robots through Large-Scale Physical Experimentation: A Review.</title>
+
+	<pages>484-506</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00330</ee>
+
+	<url>db/journals/alife/alife26.html#HowisonHHI20</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Norman15">
+
+	<author>Sally Jane Norman</author>
+
+	<title>Theater and ALife Art: Modeling Open and Closed Systems.</title>
+
+	<pages>344-353</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00175</ee>
+
+	<ee>https://www.wikidata.org/entity/Q47658490</ee>
+
+	<url>db/journals/alife/alife21.html#Norman15</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Bull16">
+
+	<author>Larry Bull</author>
+
+	<title>On Cellular Darwinism: Mitochondria.</title>
+
+	<pages>112-118</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00182</ee>
+
+	<ee>https://www.wikidata.org/entity/Q86877340</ee>
+
+	<url>db/journals/alife/alife22.html#Bull16</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/PreenB17">
+
+	<author orcid="0000-0003-3351-8132">Richard John Preen</author>
+
+	<author>Larry Bull</author>
+
+	<title>On Design Mining: Coevolution and Surrogate Models.</title>
+
+	<pages>186-205</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00225</ee>
+
+	<ee>https://www.wikidata.org/entity/Q52647735</ee>
+
+	<url>db/journals/alife/alife23.html#PreenB17</url>
+
+</article>
+
+<article mdate="2020-12-25" key="journals/alife/Turney20">
+
+	<author>Peter D. Turney</author>
+
+	<title>Symbiosis Promotes Fitness Improvements in the Game of Life.</title>
+
+	<pages>338-365</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00326</ee>
+
+	<ee>https://www.wikidata.org/entity/Q98285913</ee>
+
+	<url>db/journals/alife/alife26.html#Turney20</url>
+
+</article>
+
+<article mdate="2020-08-13" key="journals/alife/Hanczyc20">
+
+	<author>Martin M. Hanczyc</author>
+
+	<title>Engineering Life: A Review of Synthetic Biology.</title>
+
+	<pages>260-273</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00318</ee>
+
+	<ee>https://www.wikidata.org/entity/Q91761075</ee>
+
+	<url>db/journals/alife/alife26.html#Hanczyc20</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Khajehabdollahi20">
+
+	<author>Sina Khajehabdollahi</author>
+
+	<author>Olaf Witkowski</author>
+
+	<title>Evolution Towards Criticality in Ising Neural Agents.</title>
+
+	<pages>112-129</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00309</ee>
+
+	<ee>https://www.wikidata.org/entity/Q89573835</ee>
+
+	<url>db/journals/alife/alife26.html#Khajehabdollahi20</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/RavignaniV18">
+
+	<author>Andrea Ravignani</author>
+
+	<author>Tessa Verhoef</author>
+
+	<title>Which Melodic Universals Emerge from Repeated Signaling Games? A Note on Lumaca and Baggio (2017)<sup>&#8225;</sup>.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00259</ee>
+
+	<ee>https://www.wikidata.org/entity/Q52583344</ee>
+
+	<url>db/journals/alife/alife24.html#RavignaniV18</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/VirgoIM16">
+
+	<author orcid="0000-0001-8598-590X">Nathaniel Virgo</author>
+
+	<author>Takashi Ikegami</author>
+
+	<author>Simon McGregor</author>
+
+	<title>Complex Autocatalysis in Simple Chemistries.</title>
+
+	<pages>138-152</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00195</ee>
+
+	<ee>https://www.wikidata.org/entity/Q47829812</ee>
+
+	<url>db/journals/alife/alife22.html#VirgoIM16</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Powers18">
+
+	<author>Simon T. Powers</author>
+
+	<title>The Institutional Approach for Modeling the Evolution of Human Societies.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00251</ee>
+
+	<ee>https://www.wikidata.org/entity/Q47553869</ee>
+
+	<url>db/journals/alife/alife24.html#Powers18</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/ItoPSA16">
+
+	<author>Takashi Ito</author>
+
+	<author>Marcin L. Pilat</author>
+
+	<author>Reiji Suzuki</author>
+
+	<author>Takaya Arita</author>
+
+	<title>Population and Evolutionary Dynamics based on Predator-Prey Relationships in a 3D Physical Simulation.</title>
+
+	<pages>226-240</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00201</ee>
+
+	<ee>https://www.wikidata.org/entity/Q50700851</ee>
+
+	<url>db/journals/alife/alife22.html#ItoPSA16</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/VeenstraSSBR20">
+
+	<author>Frank Veenstra</author>
+
+	<author>Pablo González de Prado Salas</author>
+
+	<author>Kasper Støy</author>
+
+	<author>Josh Bongard</author>
+
+	<author>Sebastian Risi</author>
+
+	<title>Death and Progress: How Evolvability is Influenced by Intrinsic Mortality.</title>
+
+	<pages>90-111</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00311</ee>
+
+	<ee>https://www.wikidata.org/entity/Q89573846</ee>
+
+	<url>db/journals/alife/alife26.html#VeenstraSSBR20</url>
+
+</article>
+
+<article mdate="2020-10-26" key="journals/alife/KraussSM17">
+
+	<author orcid="0000-0002-6611-7733">Patrick Krauss</author>
+
+	<author>Holger Schulze</author>
+
+	<author>Claus Metzner</author>
+
+	<title>A Chemical Reaction Network to Generate Random, Power-Law-Distributed Time Intervals.</title>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00245</ee>
+
+	<ee>https://www.wikidata.org/entity/Q48638970</ee>
+
+	<url>db/journals/alife/alife23.html#KraussSM17</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/LiardPRB20">
+
+	<author>Vincent Liard</author>
+
+	<author>David P. Parsons</author>
+
+	<author>Jonathan Rouzaud-Cornabas</author>
+
+	<author>Guillaume Beslon</author>
+
+	<title>The Complexity Ratchet: Stronger than Selection, Stronger than Evolvability, Weaker than Robustness.</title>
+
+	<pages>38-57</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00312</ee>
+
+	<ee>https://www.wikidata.org/entity/Q89573857</ee>
+
+	<url>db/journals/alife/alife26.html#LiardPRB20</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/TamaruYH20">
+
+	<author>Juntaro Tamaru</author>
+
+	<author>Toshiya Yui</author>
+
+	<author>Tomoko Hashida</author>
+
+	<title>Autonomously Moving Pine-Cone Robots: Using Pine Cones as Natural Hygromorphic Actuators and as Components of Mechanisms.</title>
+
+	<pages>80-89</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00310</ee>
+
+	<ee>https://www.wikidata.org/entity/Q89573841</ee>
+
+	<url>db/journals/alife/alife26.html#TamaruYH20</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Channon19">
+
+	<author>Alastair Channon</author>
+
+	<title>Maximum Individual Complexity is Indefinitely Scalable in Geb.</title>
+
+	<pages>134-144</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00285</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92439682</ee>
+
+	<url>db/journals/alife/alife25.html#Channon19</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/PackardBCIRST19">
+
+	<author>Norman H. Packard</author>
+
+	<author>Mark A. Bedau</author>
+
+	<author>Alastair Channon</author>
+
+	<author>Takashi Ikegami</author>
+
+	<author>Steen Rasmussen</author>
+
+	<author>Kenneth O. Stanley</author>
+
+	<author orcid="0000-0003-0910-743X">Tim Taylor 0001</author>
+
+	<title>Open-Ended Evolution and Open-Endedness: Editorial Introduction to the Open-Ended Evolution I Special Issue.</title>
+
+	<pages>1-3</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/artl_e_00282</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92748792</ee>
+
+	<url>db/journals/alife/alife25.html#PackardBCIRST19</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/BiganP17">
+
+	<author>Erwan Bigan</author>
+
+	<author>Pierre Plateau</author>
+
+	<title>On the Relation between Chemical Oscillations and Self-Replication.</title>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00241</ee>
+
+	<ee>https://www.wikidata.org/entity/Q47659278</ee>
+
+	<url>db/journals/alife/alife23.html#BiganP17</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Dorin15">
+
+	<author>Alan Dorin</author>
+
+	<title>Artificial Life Art, Creativity, and Techno-hybridization (editor's introduction).</title>
+
+	<pages>261-270</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_e_00166</ee>
+
+	<ee>https://www.wikidata.org/entity/Q51806432</ee>
+
+	<url>db/journals/alife/alife21.html#Dorin15</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/HanczycGNYS15">
+
+	<author>Martin M. Hanczyc</author>
+
+	<author>Juan Manuel Parrilla Gutierrez</author>
+
+	<author>Arwen Nicholson</author>
+
+	<author>Kliment Yanev</author>
+
+	<author>Kasper Støy</author>
+
+	<title>Creating and Maintaining Chemical Artificial Life by Robotic Symbiosis.</title>
+
+	<pages>47-54</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00151</ee>
+
+	<ee>https://www.wikidata.org/entity/Q50614942</ee>
+
+	<url>db/journals/alife/alife21.html#HanczycGNYS15</url>
+
+</article>
+
+<article mdate="2021-03-29" key="journals/alife/MarriottBAS18">
+
+	<author>Chris Marriott</author>
+
+	<author orcid="0000-0002-6662-0849">James M. Borg</author>
+
+	<author orcid="0000-0002-9321-3296">Peter Andras 0001</author>
+
+	<author>Paul E. Smaldino</author>
+
+	<title>Social Learning and Cultural Evolution in Artificial Life.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00250</ee>
+
+	<ee>https://www.wikidata.org/entity/Q47553863</ee>
+
+	<url>db/journals/alife/alife24.html#MarriottBAS18</url>
+
+</article>
+
+<article mdate="2020-10-26" key="journals/alife/MontiR17">
+
+	<author orcid="0000-0002-3993-8560">Matteo Monti</author>
+
+	<author>Steen Rasmussen</author>
+
+	<title>RAIN: A Bio-Inspired Communication and Data Storage Infrastructure.</title>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00247</ee>
+
+	<ee>https://www.wikidata.org/entity/Q42695402</ee>
+
+	<url>db/journals/alife/alife23.html#MontiR17</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Hintze19">
+
+	<author>Arend Hintze</author>
+
+	<title>Open-Endedness for the Sake of Open-Endedness.</title>
+
+	<pages>198-206</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00289</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92439697</ee>
+
+	<url>db/journals/alife/alife25.html#Hintze19</url>
+
+</article>
+
+<article mdate="2021-02-11" key="journals/alife/BorgC20">
+
+	<author>James M. Borg</author>
+
+	<author>Alastair Channon</author>
+
+	<title>The Effect of Social Information Use Without Learning on the Evolution of Social Behavior.</title>
+
+	<pages>431-454</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00328</ee>
+
+	<url>db/journals/alife/alife26.html#BorgC20</url>
+
+</article>
+
+<article mdate="2020-09-17" key="journals/alife/KimS18">
+
+	<author orcid="0000-0002-4856-7415">Hyobin Kim</author>
+
+	<author>Hiroki Sayama</author>
+
+	<title>How Criticality of Gene Regulatory Networks Affects the Resulting Morphogenesis under Genetic Perturbations.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00262</ee>
+
+	<ee>https://www.wikidata.org/entity/Q52319107</ee>
+
+	<url>db/journals/alife/alife24.html#KimS18</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/DolsonVWO19">
+
+	<author orcid="0000-0001-8616-4898">Emily L. Dolson</author>
+
+	<author>Anya E. Vostinar</author>
+
+	<author>Michael J. Wiser</author>
+
+	<author>Charles Ofria</author>
+
+	<title>The MODES Toolbox: Measurements of Open-Ended Dynamics in Evolving Systems.</title>
+
+	<pages>50-73</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00280</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92748782</ee>
+
+	<url>db/journals/alife/alife25.html#DolsonVWO19</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/VostinarO18">
+
+	<author>Anya E. Vostinar</author>
+
+	<author>Charles Ofria</author>
+
+	<title>Spatial Structure Can Decrease Symbiotic Cooperation.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00273</ee>
+
+	<ee>https://www.wikidata.org/entity/Q91220951</ee>
+
+	<url>db/journals/alife/alife24.html#VostinarO18</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/KnibbeBM19">
+
+	<author>Carole Knibbe</author>
+
+	<author>Guillaume Beslon</author>
+
+	<author>Dusan Misevic</author>
+
+	<title>Introduction to the ECAL 2017 Special Issue.</title>
+
+	<pages>313-314</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00298</ee>
+
+	<ee>https://www.wikidata.org/entity/Q91163936</ee>
+
+	<url>db/journals/alife/alife25.html#KnibbeBM19</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/ErskineH15">
+
+	<author>Adam Erskine</author>
+
+	<author>J. Michael Herrmann</author>
+
+	<title>Cell-Division Behavior in a Heterogeneous Swarm Environment.</title>
+
+	<pages>481-500</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00188</ee>
+
+	<ee>https://www.wikidata.org/entity/Q46642709</ee>
+
+	<url>db/journals/alife/alife21.html#ErskineH15</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Ha19">
+
+	<author>David Ha</author>
+
+	<title>Reinforcement Learning for Improving Agent Design.</title>
+
+	<pages>352-365</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00301</ee>
+
+	<ee>https://www.wikidata.org/entity/Q91163942</ee>
+
+	<url>db/journals/alife/alife25.html#Ha19</url>
+
+</article>
+
+<article mdate="2020-12-29" key="journals/alife/Hernandez-Orozco18">
+
+	<author>Santiago Hernández-Orozco</author>
+
+	<author>Francisco Hernández Quiroz</author>
+
+	<author orcid="0000-0003-0634-4384">Hector Zenil</author>
+
+	<title>Undecidability and Irreducibility Conditions for Open-Ended Evolution and Emergence.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00254</ee>
+
+	<ee>https://www.wikidata.org/entity/Q47556534</ee>
+
+	<url>db/journals/alife/alife24.html#Hernandez-Orozco18</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/WitkowskiIVOI20">
+
+	<author>Olaf Witkowski</author>
+
+	<author>Takashi Ikegami</author>
+
+	<author>Nathaniel Virgo</author>
+
+	<author>Mizuki Oka</author>
+
+	<author>Hiroyuki Iizuka</author>
+
+	<title>Artificial Life Next Generation Perspectives: Echoes from the 2018 Conference in Tokyo.</title>
+
+	<pages>1-4</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/artl_e_00306</ee>
+
+	<ee>https://www.wikidata.org/entity/Q89573854</ee>
+
+	<url>db/journals/alife/alife26.html#WitkowskiIVOI20</url>
+
+</article>
+
+<article mdate="2020-10-26" key="journals/alife/JanssenNHS16">
+
+	<author>Rick Janssen</author>
+
+	<author>Stefano Nolfi</author>
+
+	<author orcid="0000-0002-4077-9560">Pim Haselager</author>
+
+	<author>Ida G. Sprinkhuizen-Kuyper</author>
+
+	<title>Cyclic Incrementality in Competitive Coevolution: Evolvability through Pseudo-Baldwinian Switching-Genes.</title>
+
+	<pages>319-352</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00208</ee>
+
+	<ee>https://www.wikidata.org/entity/Q38836451</ee>
+
+	<url>db/journals/alife/alife22.html#JanssenNHS16</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/LehmanS15">
+
+	<author>Joel Lehman</author>
+
+	<author>Kenneth O. Stanley</author>
+
+	<title>Investigating Biological Assumptions through Radical Reimplementation.</title>
+
+	<pages>21-46</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00150</ee>
+
+	<ee>https://www.wikidata.org/entity/Q53359674</ee>
+
+	<url>db/journals/alife/alife21.html#LehmanS15</url>
+
+</article>
+
+<article mdate="2020-03-27" key="journals/alife/MullerH17">
+
+	<author orcid="0000-0002-4144-4957">Vincent C. Müller</author>
+
+	<author orcid="0000-0001-8137-3412">Matej Hoffmann</author>
+
+	<title>What Is Morphological Computation? On How the Body Contributes to Cognition and Control.</title>
+
+	<pages>1-24</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00219</ee>
+
+	<ee>https://www.wikidata.org/entity/Q48331632</ee>
+
+	<url>db/journals/alife/alife23.html#MullerH17</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/SommererM15">
+
+	<author>Christa Sommerer</author>
+
+	<author>Laurent Mignonneau</author>
+
+	<title><i>Living Poetry</i>.</title>
+
+	<pages>313-319</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00172</ee>
+
+	<ee>https://www.wikidata.org/entity/Q33465835</ee>
+
+	<url>db/journals/alife/alife21.html#SommererM15</url>
+
+</article>
+
+<article mdate="2020-10-26" key="journals/alife/FranklinLA19">
+
+	<author orcid="0000-0003-0809-362X">Joshua Franklin</author>
+
+	<author>Thomas LaBar</author>
+
+	<author>Christoph Adami</author>
+
+	<title>Mapping the Peaks: Fitness Landscapes of the Fittest and the Flattest.</title>
+
+	<pages>250-262</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00296</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92520471</ee>
+
+	<url>db/journals/alife/alife25.html#FranklinLA19</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/MoranP19a">
+
+	<author>Nick Moran</author>
+
+	<author>Jordan B. Pollack</author>
+
+	<title>Evolving Complexity in Cooperative and Competitive Noisy Prediction Games.</title>
+
+	<pages>366-382</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00302</ee>
+
+	<ee>https://www.wikidata.org/entity/Q91163946</ee>
+
+	<url>db/journals/alife/alife25.html#MoranP19a</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/BedauGJKNP19">
+
+	<author>Mark A. Bedau</author>
+
+	<author>Nicholas Gigliotti</author>
+
+	<author>Tobias Janssen</author>
+
+	<author>Alec Kosik</author>
+
+	<author>Ananthan Nambiar</author>
+
+	<author>Norman H. Packard</author>
+
+	<title>Open-Ended Technological Innovation.</title>
+
+	<pages>33-49</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00279</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92748811</ee>
+
+	<url>db/journals/alife/alife25.html#BedauGJKNP19</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/JelisavcicCHEOH17">
+
+	<author orcid="0000-0001-8148-0939">Milan Jelisavcic</author>
+
+	<author>Matteo De Carlo</author>
+
+	<author>Elte Hupkes</author>
+
+	<author orcid="0000-0002-9407-1293">Panagiotis Eustratiadis</author>
+
+	<author orcid="0000-0002-5380-3275">Jakub Orlowski</author>
+
+	<author>Evert Haasdijk</author>
+
+	<author>Joshua Evan Auerbach</author>
+
+	<author>A. E. Eiben</author>
+
+	<title>Real-World Evolution of Robot Morphologies: A Proof of Concept.</title>
+
+	<pages>206-235</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00231</ee>
+
+	<ee>https://www.wikidata.org/entity/Q38682877</ee>
+
+	<url>db/journals/alife/alife23.html#JelisavcicCHEOH17</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/BlountBTS17">
+
+	<author>Drew Blount</author>
+
+	<author orcid="0000-0001-6678-490X">Peter Banda</author>
+
+	<author>Christof Teuscher</author>
+
+	<author>Darko Stefanovic</author>
+
+	<title>Feedforward Chemical Neural Network: An In Silico Chemical System That Learns xor.</title>
+
+	<pages>295-317</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00233</ee>
+
+	<ee>https://www.wikidata.org/entity/Q45946350</ee>
+
+	<url>db/journals/alife/alife23.html#BlountBTS17</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/JoachimczakSA16">
+
+	<author orcid="0000-0002-2863-1950">Michal Joachimczak</author>
+
+	<author>Reiji Suzuki</author>
+
+	<author>Takaya Arita</author>
+
+	<title>Artificial Metamorphosis: Evolutionary Design of Transforming, Soft-Bodied Robots.</title>
+
+	<pages>271-298</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00207</ee>
+
+	<ee>https://www.wikidata.org/entity/Q48772362</ee>
+
+	<url>db/journals/alife/alife22.html#JoachimczakSA16</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/VujovicRBI17">
+
+	<author>Vuk Vujovic</author>
+
+	<author>Andre Rosendo</author>
+
+	<author>Luzius Brodbeck</author>
+
+	<author orcid="0000-0001-9246-7190">Fumiya Iida</author>
+
+	<title>Evolutionary Developmental Robotics: Improving Morphology and Control of Physical Robots.</title>
+
+	<pages>169-185</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00228</ee>
+
+	<ee>https://www.wikidata.org/entity/Q38682875</ee>
+
+	<url>db/journals/alife/alife23.html#VujovicRBI17</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/SayamaRRDL16">
+
+	<author>Hiroki Sayama</author>
+
+	<author>John Rieffel</author>
+
+	<author orcid="0000-0003-3607-8400">Sebastian Risi</author>
+
+	<author>René Doursat</author>
+
+	<author>Hod Lipson</author>
+
+	<title>Editorial Introduction to the Artificial Life 14 Conference Special Issue.</title>
+
+	<pages>135-137</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_e_00204</ee>
+
+	<ee>https://www.wikidata.org/entity/Q95355143</ee>
+
+	<url>db/journals/alife/alife22.html#SayamaRRDL16</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/KaminkaSAAB17">
+
+	<author>Gal A. Kaminka</author>
+
+	<author>Rachel Spokoini-Stern</author>
+
+	<author>Yaniv Amir</author>
+
+	<author>Noa Agmon</author>
+
+	<author>Ido Bachelet</author>
+
+	<title>Molecular Robots Obeying Asimov's Three Laws of Robotics.</title>
+
+	<pages>343-350</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00235</ee>
+
+	<ee>https://www.wikidata.org/entity/Q52548395</ee>
+
+	<url>db/journals/alife/alife23.html#KaminkaSAAB17</url>
+
+</article>
+
+<article mdate="2020-12-25" key="journals/alife/Miranda20">
+
+	<author>Eduardo Reck Miranda</author>
+
+	<title>Genetic Music System with Synthetic Biology.</title>
+
+	<pages>366-390</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00325</ee>
+
+	<ee>https://www.wikidata.org/entity/Q98285910</ee>
+
+	<url>db/journals/alife/alife26.html#Miranda20</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/CascheraN16">
+
+	<author orcid="0000-0001-9884-775X">Filippo Caschera</author>
+
+	<author orcid="0000-0002-5213-273X">Vincent Noireaux</author>
+
+	<title>Compartmentalization of an all-<i>E. coli</i> Cell-Free Expression System for the Construction of a Minimal Cell.</title>
+
+	<pages>185-195</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00198</ee>
+
+	<ee>https://www.wikidata.org/entity/Q54249867</ee>
+
+	<url>db/journals/alife/alife22.html#CascheraN16</url>
+
+</article>
+
+<article mdate="2021-04-09" key="journals/alife/MilanoCN18">
+
+	<author orcid="0000-0002-1604-5161">Nicola Milano</author>
+
+	<author>Jônata Tyska Carvalho</author>
+
+	<author>Stefano Nolfi</author>
+
+	<title>Moderate Environmental Variation Across Generations Promotes the Evolution of Robust Solutions.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00274</ee>
+
+	<ee>https://www.wikidata.org/entity/Q91220956</ee>
+
+	<url>db/journals/alife/alife24.html#MilanoCN18</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/MavelliS15">
+
+	<author>Fabio Mavelli</author>
+
+	<author orcid="0000-0002-2228-2825">Pasquale Stano</author>
+
+	<title>Experiments on and Numerical Modeling of the Capture and Concentration of Transcription-Translation Machinery inside Vesicles.</title>
+
+	<pages>445-463</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00187</ee>
+
+	<ee>https://www.wikidata.org/entity/Q38945428</ee>
+
+	<url>db/journals/alife/alife21.html#MavelliS15</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/TaylorBCABBDFHI16">
+
+	<author orcid="0000-0003-0910-743X">Tim Taylor 0001</author>
+
+	<author>Mark A. Bedau</author>
+
+	<author>Alastair Channon</author>
+
+	<author>David H. Ackley</author>
+
+	<author>Wolfgang Banzhaf</author>
+
+	<author>Guillaume Beslon</author>
+
+	<author orcid="0000-0001-8616-4898">Emily L. Dolson</author>
+
+	<author orcid="0000-0002-9899-5274">Tom Froese</author>
+
+	<author>Simon J. Hickinbotham</author>
+
+	<author>Takashi Ikegami</author>
+
+	<author>Barry McMullin</author>
+
+	<author>Norman H. Packard</author>
+
+	<author>Steen Rasmussen</author>
+
+	<author orcid="0000-0001-8598-590X">Nathaniel Virgo</author>
+
+	<author>Eran Agmon</author>
+
+	<author>Edward Clark</author>
+
+	<author>Simon McGregor</author>
+
+	<author>Charles Ofria</author>
+
+	<author>Glen Ropella</author>
+
+	<author>Lee Spector</author>
+
+	<author>Kenneth O. Stanley</author>
+
+	<author orcid="0000-0003-3865-2381">Adam Stanton</author>
+
+	<author>Christopher Steven Timperley</author>
+
+	<author>Anya E. Vostinar</author>
+
+	<author orcid="0000-0003-1686-9272">Michael J. Wiser</author>
+
+	<title>Open-Ended Evolution: Perspectives from the OEE Workshop in York.</title>
+
+	<pages>408-423</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00210</ee>
+
+	<ee>https://www.wikidata.org/entity/Q30489635</ee>
+
+	<url>db/journals/alife/alife22.html#TaylorBCABBDFHI16</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/MooreSMM19">
+
+	<author>Jared M. Moore</author>
+
+	<author>Catherine L. Shine</author>
+
+	<author>Craig P. McGowan</author>
+
+	<author>Philip K. McKinley</author>
+
+	<title>Exploring Bipedal Hopping through Computational Evolution.</title>
+
+	<pages>236-249</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00295</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92520465</ee>
+
+	<url>db/journals/alife/alife25.html#MooreSMM19</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Brown15">
+
+	<author>Richard Brown</author>
+
+	<title>The Life of the <i>Mimetic Starfish</i>, 2000-2012.</title>
+
+	<pages>285-288</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00168</ee>
+
+	<ee>https://www.wikidata.org/entity/Q53382456</ee>
+
+	<url>db/journals/alife/alife21.html#Brown15</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Taylor19">
+
+	<author orcid="0000-0003-0910-743X">Tim Taylor 0001</author>
+
+	<title>Evolutionary Innovations and Where to Find Them: Routes to Open-Ended Evolution in Natural and Artificial Systems.</title>
+
+	<pages>207-224</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00290</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92439671</ee>
+
+	<url>db/journals/alife/alife25.html#Taylor19</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Young17">
+
+	<author>Rupert Young 0001</author>
+
+	<title>A General Architecture for Robotics Systems: A Perception-Based Approach to Artificial Life.</title>
+
+	<pages>236-286</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00229</ee>
+
+	<ee>https://www.wikidata.org/entity/Q88084316</ee>
+
+	<url>db/journals/alife/alife23.html#Young17</url>
+
+</article>
+
+<article mdate="2020-08-13" key="journals/alife/RainfordSS20">
+
+	<author>Penelope Faulkner Rainford</author>
+
+	<author>Angelika Sebald</author>
+
+	<author>Susan Stepney</author>
+
+	<title>MetaChem: An Algebraic Framework for Artificial Chemistries.</title>
+
+	<pages>153-195</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00315</ee>
+
+	<ee>https://www.wikidata.org/entity/Q91761112</ee>
+
+	<url>db/journals/alife/alife26.html#RainfordSS20</url>
+
+</article>
+
+<article mdate="2020-03-27" key="journals/alife/BlumLD15">
+
+	<author orcid="0000-0002-1736-3559">Christian Blum 0001</author>
+
+	<author>José Antonio Lozano</author>
+
+	<author>Pedro Pinacho Davidson</author>
+
+	<title>An Artificial Bioindicator System for Network Intrusion Detection.</title>
+
+	<pages>93-118</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00162</ee>
+
+	<ee>https://www.wikidata.org/entity/Q40965141</ee>
+
+	<url>db/journals/alife/alife21.html#BlumLD15</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/JonesKMPZ15">
+
+	<author>Gareth Jones</author>
+
+	<author>Philip H. King</author>
+
+	<author orcid="0000-0003-4850-5676">Hywel Morgan</author>
+
+	<author orcid="0000-0002-8787-0513">Maurits R. R. de Planque</author>
+
+	<author>Klaus-Peter Zauner</author>
+
+	<title>Autonomous Droplet Architectures.</title>
+
+	<pages>195-204</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00156</ee>
+
+	<ee>https://www.wikidata.org/entity/Q57053549</ee>
+
+	<url>db/journals/alife/alife21.html#JonesKMPZ15</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/OlsonKA16">
+
+	<author>Randal S. Olson</author>
+
+	<author>David B. Knoester</author>
+
+	<author orcid="0000-0002-2915-9504">Christoph Adami</author>
+
+	<title>Evolution of Swarming Behavior Is Shaped by How Predators Attack.</title>
+
+	<pages>299-318</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00206</ee>
+
+	<ee>https://www.wikidata.org/entity/Q40371306</ee>
+
+	<url>db/journals/alife/alife22.html#OlsonKA16</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Brodsky16">
+
+	<author>Micah Z. Brodsky</author>
+
+	<title>Partial Redundancy and Morphological Homeostasis: Reliable Development through Overlapping Mechanisms.</title>
+
+	<pages>518-536</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00216</ee>
+
+	<ee>https://www.wikidata.org/entity/Q51105017</ee>
+
+	<url>db/journals/alife/alife22.html#Brodsky16</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/HachmonMSBHAB16">
+
+	<author>Guy Hachmon</author>
+
+	<author>Noam Mamet</author>
+
+	<author>Sapir Sasson</author>
+
+	<author>Tal Barkai</author>
+
+	<author>Nomi Hadar</author>
+
+	<author>Almogit Abu-Horowitz</author>
+
+	<author>Ido Bachelet</author>
+
+	<title>A Non-Newtonian Fluid Robot.</title>
+
+	<pages>1-22</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00194</ee>
+
+	<ee>https://www.wikidata.org/entity/Q87139580</ee>
+
+	<url>db/journals/alife/alife22.html#HachmonMSBHAB16</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/BiganSD15">
+
+	<author>Erwan Bigan</author>
+
+	<author>Jean-Marc Steyaert</author>
+
+	<author>Stéphane Douady</author>
+
+	<title>Minimal Conditions for Protocell Stationary Growth.</title>
+
+	<pages>166-192</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00165</ee>
+
+	<ee>https://www.wikidata.org/entity/Q87262029</ee>
+
+	<url>db/journals/alife/alife21.html#BiganSD15</url>
+
+</article>
+
+<article mdate="2021-04-09" key="journals/alife/KohliMT20">
+
+	<author>Maitrei Kohli</author>
+
+	<author orcid="0000-0003-1884-0772">George D. Magoulas</author>
+
+	<author>Michael S. C. Thomas</author>
+
+	<title>Evolving Connectionist Models to Capture Population Variability across Language Development: Modeling Children's Past Tense Formation.</title>
+
+	<pages>217-241</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00316</ee>
+
+	<ee>https://www.wikidata.org/entity/Q91761086</ee>
+
+	<url>db/journals/alife/alife26.html#KohliMT20</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/OzasaLSHM15">
+
+	<author>Kazunari Ozasa</author>
+
+	<author>Jeesoo Lee</author>
+
+	<author>Simon Song</author>
+
+	<author>Masahiko Hara</author>
+
+	<author>Mizuo Maeda</author>
+
+	<title>Autonomous Pattern Formation of Micro-organic Cell Density with Optical Interlink between Two Isolated Culture Dishes.</title>
+
+	<pages>234-246</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00159</ee>
+
+	<ee>https://www.wikidata.org/entity/Q40252403</ee>
+
+	<url>db/journals/alife/alife21.html#OzasaLSHM15</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/GonzalezWB17">
+
+	<author>Miguel Gonzalez</author>
+
+	<author>Richard A. Watson</author>
+
+	<author>Seth Bullock</author>
+
+	<title>Minimally Sufficient Conditions for the Evolution of Social Learning and the Emergence of Non-Genetic Evolutionary Systems.</title>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00244</ee>
+
+	<ee>https://www.wikidata.org/entity/Q46292780</ee>
+
+	<url>db/journals/alife/alife23.html#GonzalezWB17</url>
+
+</article>
+
+<article mdate="2020-10-26" key="journals/alife/LumacaB17">
+
+	<author>Massimo Lumaca</author>
+
+	<author orcid="0000-0001-5086-0365">Giosuè Baggio</author>
+
+	<title>Cultural Transmission and Evolution of Melodic Structures in Multi-generational Signaling Games.</title>
+
+	<pages>406-423</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00238</ee>
+
+	<ee>https://www.wikidata.org/entity/Q47304130</ee>
+
+	<url>db/journals/alife/alife23.html#LumacaB17</url>
+
+</article>
+
+<article mdate="2021-04-09" key="journals/alife/VillaniRFFPS15">
+
+	<author orcid="0000-0002-5991-5470">Marco Villani</author>
+
+	<author orcid="0000-0001-9891-5441">Andrea Roli</author>
+
+	<author orcid="0000-0002-6389-1109">Alessandro Filisetti</author>
+
+	<author orcid="0000-0003-1013-5147">Marco Fiorucci</author>
+
+	<author>Irene Poli</author>
+
+	<author>Roberto Serra</author>
+
+	<title>The Search for Candidate Relevant Subsets of Variables in Complex Systems.</title>
+
+	<pages>412-431</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00184</ee>
+
+	<ee>https://www.wikidata.org/entity/Q40348032</ee>
+
+	<url>db/journals/alife/alife21.html#VillaniRFFPS15</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/AmirAWB19">
+
+	<author>Yaniv Amir</author>
+
+	<author>Almogit Abu-Horowitz</author>
+
+	<author>Justin Werfel</author>
+
+	<author>Ido Bachelet</author>
+
+	<title>Nanoscale Robots Exhibiting Quorum Sensing.</title>
+
+	<pages>227-231</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00293</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92520481</ee>
+
+	<url>db/journals/alife/alife25.html#AmirAWB19</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Eldridge15">
+
+	<author>Alice Eldridge</author>
+
+	<title><i>You Pretty Little Flocker</i>: Exploring the Aesthetic State Space of Creative Ecosystems.</title>
+
+	<pages>289-292</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00169</ee>
+
+	<ee>https://www.wikidata.org/entity/Q50866357</ee>
+
+	<url>db/journals/alife/alife21.html#Eldridge15</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Harvey19">
+
+	<author>Inman Harvey</author>
+
+	<title>Circular Causation, Circular Cognition: A Tour Around Some Common Confusions.</title>
+
+	<pages>334-351</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00300</ee>
+
+	<ee>https://www.wikidata.org/entity/Q91163934</ee>
+
+	<url>db/journals/alife/alife25.html#Harvey19</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/AgmonGB16">
+
+	<author>Eran Agmon</author>
+
+	<author orcid="0000-0003-0099-7480">Alexander J. Gates</author>
+
+	<author>Randall D. Beer</author>
+
+	<title>The Structure of Ontogenies in a Model Protocell.</title>
+
+	<pages>499-517</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00215</ee>
+
+	<ee>https://www.wikidata.org/entity/Q88717794</ee>
+
+	<url>db/journals/alife/alife22.html#AgmonGB16</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/GerleeBA17">
+
+	<author>Philip Gerlee</author>
+
+	<author>David Basanta</author>
+
+	<author>Alexander R. A. Anderson</author>
+
+	<title>The Influence of Cellular Characteristics on the Evolution of Shape Homeostasis.</title>
+
+	<pages>424-448</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00240</ee>
+
+	<ee>https://www.wikidata.org/entity/Q53559253</ee>
+
+	<url>db/journals/alife/alife23.html#GerleeBA17</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/HuizingaSC18">
+
+	<author>Joost Huizinga</author>
+
+	<author>Kenneth O. Stanley</author>
+
+	<author>Jeff Clune</author>
+
+	<title>The Emergence of Canalization and Evolvability in an Open-Ended, Interactive Evolutionary System.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00263</ee>
+
+	<ee>https://www.wikidata.org/entity/Q93367125</ee>
+
+	<url>db/journals/alife/alife24.html#HuizingaSC18</url>
+
+</article>
+
+<article mdate="2021-04-09" key="journals/alife/SimioneN20">
+
+	<author orcid="0000-0003-1938-8466">Luca Simione</author>
+
+	<author>Stefano Nolfi</author>
+
+	<title>Long-Term Progress and Behavior Complexification in Competitive Coevolution.</title>
+
+	<pages>409-430</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00329</ee>
+
+	<url>db/journals/alife/alife26.html#SimioneN20</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/IscenCBAST15">
+
+	<author>Atil Iscen</author>
+
+	<author>Ken Caluwaerts</author>
+
+	<author>Jonathan Bruce</author>
+
+	<author>Adrian K. Agogino</author>
+
+	<author>Vytas SunSpiral</author>
+
+	<author>Kagan Tumer</author>
+
+	<title>Learning Tensegrity Locomotion Using Open-Loop Control Signals and Coevolutionary Algorithms.</title>
+
+	<pages>119-140</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00163</ee>
+
+	<ee>https://www.wikidata.org/entity/Q46119261</ee>
+
+	<url>db/journals/alife/alife21.html#IscenCBAST15</url>
+
+</article>
+
+<article mdate="2020-08-13" key="journals/alife/KanoNAI20">
+
+	<author>Takeshi Kano</author>
+
+	<author>Eiichi Naito</author>
+
+	<author>Takenobu Aoshima</author>
+
+	<author>Akio Ishiguro</author>
+
+	<title>Decentralized Control for Swarm Robots That Can Effectively Execute Spatially Distributed Tasks.</title>
+
+	<pages>242-259</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00317</ee>
+
+	<ee>https://www.wikidata.org/entity/Q91761099</ee>
+
+	<url>db/journals/alife/alife26.html#KanoNAI20</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/PackardBCIRST19a">
+
+	<author>Norman H. Packard</author>
+
+	<author>Mark A. Bedau</author>
+
+	<author>Alastair Channon</author>
+
+	<author>Takashi Ikegami</author>
+
+	<author>Steen Rasmussen</author>
+
+	<author>Kenneth O. Stanley</author>
+
+	<author orcid="0000-0003-0910-743X">Tim Taylor 0001</author>
+
+	<title>An Overview of Open-Ended Evolution: Editorial Introduction to the Open-Ended Evolution II Special Issue.</title>
+
+	<pages>93-103</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00291</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92439665</ee>
+
+	<url>db/journals/alife/alife25.html#PackardBCIRST19a</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/FainaJR17">
+
+	<author>Andrés Faiña</author>
+
+	<author>Lars Toft Jacobsen</author>
+
+	<author>Sebastian Risi</author>
+
+	<title>Automating the Incremental Evolution of Controllers for Physical Robots.</title>
+
+	<pages>142-168</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00226</ee>
+
+	<ee>https://www.wikidata.org/entity/Q40470293</ee>
+
+	<url>db/journals/alife/alife23.html#FainaJR17</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/LuiTZCK15">
+
+	<author>Leong Ting Lui</author>
+
+	<author>Germán Terrazas</author>
+
+	<author>Hector Zenil</author>
+
+	<author orcid="0000-0001-8337-1875">Cameron Alexander</author>
+
+	<author>Natalio Krasnogor</author>
+
+	<title>Complexity Measurement Based on Information Theory and Kolmogorov Complexity.</title>
+
+	<pages>205-224</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00157</ee>
+
+	<ee>https://www.wikidata.org/entity/Q51582056</ee>
+
+	<url>db/journals/alife/alife21.html#LuiTZCK15</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/IchinoseS17">
+
+	<author>Genki Ichinose</author>
+
+	<author>Hiroki Sayama</author>
+
+	<title>Invasion of Cooperation in Scale-Free Networks: Accumulated versus Average Payoffs.</title>
+
+	<pages>25-33</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00220</ee>
+
+	<ee>https://www.wikidata.org/entity/Q47348391</ee>
+
+	<url>db/journals/alife/alife23.html#IchinoseS17</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Haruna17">
+
+	<author>Taichi Haruna</author>
+
+	<title>Adaptive Local Information Transfer in Random Boolean Networks.</title>
+
+	<pages>105-118</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00224</ee>
+
+	<ee>https://www.wikidata.org/entity/Q89927765</ee>
+
+	<url>db/journals/alife/alife23.html#Haruna17</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Harvey18">
+
+	<author>Inman Harvey</author>
+
+	<title>Robustness and Contingent History: From Prisoner's Dilemma to Gaia Theory.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00252</ee>
+
+	<ee>https://www.wikidata.org/entity/Q47553875</ee>
+
+	<url>db/journals/alife/alife24.html#Harvey18</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Kerbe16">
+
+	<author>Wolfgang Kerbe</author>
+
+	<title>What is Life - in Everyday Understanding? A Focus Group Study on Lay Perspectives on the Term <i>Life</i>.</title>
+
+	<pages>119-133</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00181</ee>
+
+	<ee>https://www.wikidata.org/entity/Q86877337</ee>
+
+	<url>db/journals/alife/alife22.html#Kerbe16</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/JohnsonPH16">
+
+	<author>Chris A. Johnson 0001</author>
+
+	<author orcid="0000-0001-5503-0467">Andrew Philippides</author>
+
+	<author>Philip Husbands</author>
+
+	<title>Active Shape Discrimination with Compliant Bodies as Reservoir Computers.</title>
+
+	<pages>241-268</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00202</ee>
+
+	<ee>https://www.wikidata.org/entity/Q51572971</ee>
+
+	<url>db/journals/alife/alife22.html#JohnsonPH16</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/McGregorM18">
+
+	<author>Simon McGregor</author>
+
+	<author>Pedro A. M. Mediano</author>
+
+	<title>Adaptation Is Not Just Improvement over Time.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00268</ee>
+
+	<ee>https://www.wikidata.org/entity/Q93367144</ee>
+
+	<url>db/journals/alife/alife24.html#McGregorM18</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/BadeltFH16">
+
+	<author orcid="0000-0003-2636-5801">Stefan Badelt</author>
+
+	<author orcid="0000-0001-5500-2415">Christoph Flamm</author>
+
+	<author orcid="0000-0001-7132-0800">Ivo L. Hofacker</author>
+
+	<title>Computational Design of a Circular RNA with Prionlike Behavior.</title>
+
+	<pages>172-184</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00197</ee>
+
+	<ee>https://www.wikidata.org/entity/Q47829824</ee>
+
+	<url>db/journals/alife/alife22.html#BadeltFH16</url>
+
+</article>
+
+<article mdate="2020-08-13" key="journals/alife/PolackZ20">
+
+	<author>Fiona Polack</author>
+
+	<author>Steffen Zschaler</author>
+
+	<title>Report on Workshop: Planning the Future of Agent Simulation.</title>
+
+	<pages>307-313</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00320</ee>
+
+	<ee>https://www.wikidata.org/entity/Q91761104</ee>
+
+	<url>db/journals/alife/alife26.html#PolackZ20</url>
+
+</article>
+
+<article mdate="2020-10-26" key="journals/alife/AntunesLL15">
+
+	<author>Rui Filipe Antunes</author>
+
+	<author orcid="0000-0002-3221-8966">Frederic Fol Leymarie</author>
+
+	<author>William H. Latham</author>
+
+	<title>On Writing and Reading Artistic Computational Ecosystems.</title>
+
+	<pages>320-331</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00173</ee>
+
+	<ee>https://www.wikidata.org/entity/Q85913459</ee>
+
+	<url>db/journals/alife/alife21.html#AntunesLL15</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Bullinaria17">
+
+	<author>John A. Bullinaria</author>
+
+	<title>Imitative and Direct Learning as Interacting Factors in Life History Evolution.</title>
+
+	<pages>374-405</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00237</ee>
+
+	<ee>https://www.wikidata.org/entity/Q38645548</ee>
+
+	<url>db/journals/alife/alife23.html#Bullinaria17</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/ProphetP15">
+
+	<author>Jane Prophet</author>
+
+	<author>Helen Pritchard</author>
+
+	<title>Performative Apparatus and Diffractive Practices: An Account of Artificial Life Art.</title>
+
+	<pages>332-343</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00174</ee>
+
+	<ee>https://www.wikidata.org/entity/Q47564226</ee>
+
+	<url>db/journals/alife/alife21.html#ProphetP15</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/TaylorABCHOORSY16">
+
+	<author orcid="0000-0003-0910-743X">Tim Taylor 0001</author>
+
+	<author>Joshua Evan Auerbach</author>
+
+	<author>Josh Bongard</author>
+
+	<author>Jeff Clune</author>
+
+	<author>Simon J. Hickinbotham</author>
+
+	<author>Charles Ofria</author>
+
+	<author>Mizuki Oka</author>
+
+	<author>Sebastian Risi</author>
+
+	<author>Kenneth O. Stanley</author>
+
+	<author>Jason Yosinski</author>
+
+	<title>WebAL Comes of Age: A Review of the First 21 Years of Artificial Life on the Web.</title>
+
+	<pages>364-407</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00211</ee>
+
+	<ee>https://www.wikidata.org/entity/Q30489632</ee>
+
+	<url>db/journals/alife/alife22.html#TaylorABCHOORSY16</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/BenesSR15">
+
+	<author>David Benes</author>
+
+	<author>Petr Sosík</author>
+
+	<author orcid="0000-0001-7289-2114">Alfonso Rodríguez-Patón</author>
+
+	<title>An Autonomous In Vivo Dual Selection Protocol for Boolean Genetic Circuits.</title>
+
+	<pages>247-260</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00160</ee>
+
+	<ee>https://www.wikidata.org/entity/Q35549261</ee>
+
+	<url>db/journals/alife/alife21.html#BenesSR15</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/DolsonLJO20">
+
+	<author>Emily L. Dolson</author>
+
+	<author>Alexander Lalejini</author>
+
+	<author>Steven Jorgensen</author>
+
+	<author>Charles Ofria</author>
+
+	<title>Interpreting the Tape of Life: Ancestry-Based Analyses Provide Insights and Intuition about Evolutionary Dynamics.</title>
+
+	<pages>58-79</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00313</ee>
+
+	<ee>https://www.wikidata.org/entity/Q89573862</ee>
+
+	<url>db/journals/alife/alife26.html#DolsonLJO20</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/PatteeS19">
+
+	<author>Howard H. Pattee</author>
+
+	<author>Hiroki Sayama</author>
+
+	<title>Evolved Open-Endedness, Not Open-Ended Evolution.</title>
+
+	<pages>4-8</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00276</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92748806</ee>
+
+	<url>db/journals/alife/alife25.html#PatteeS19</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Blount16">
+
+	<author>Drew Blount</author>
+
+	<title>A General Statistical Method for Identifying Adaptations by Parameterizing Trait Space.</title>
+
+	<pages>211-225</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00200</ee>
+
+	<ee>https://www.wikidata.org/entity/Q87400118</ee>
+
+	<url>db/journals/alife/alife22.html#Blount16</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Vera17">
+
+	<author>Javier Vera</author>
+
+	<title>Self-Organization of Vocabularies under Different Interaction Orders.</title>
+
+	<pages>287-294</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00230</ee>
+
+	<ee>https://www.wikidata.org/entity/Q47842077</ee>
+
+	<url>db/journals/alife/alife23.html#Vera17</url>
+
+</article>
+
+<article mdate="2021-05-21" key="journals/alife/CardosoCCCWGHRR20">
+
+	<author>Silvana S. S. Cardoso</author>
+
+	<author>Julyan H. E. Cartwright</author>
+
+	<author>Jitka Cejková</author>
+
+	<author>Leroy Cronin</author>
+
+	<author>Anne De Wit</author>
+
+	<author>Simone Giannerini</author>
+
+	<author>Dezso Horváth</author>
+
+	<author>Alírio E. Rodrigues</author>
+
+	<author>Michael J. Russell</author>
+
+	<author>C. Ignacio Sainz-Díaz</author>
+
+	<author>Ágota Tóth</author>
+
+	<title>Chemobrionics: From Self-Assembled Material Architectures to the Origin of Life.</title>
+
+	<pages>315-326</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00323</ee>
+
+	<ee>https://www.wikidata.org/entity/Q97649375</ee>
+
+	<url>db/journals/alife/alife26.html#CardosoCCCWGHRR20</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Beer20">
+
+	<author>Randall D. Beer</author>
+
+	<title>An Investigation into the Origin of Autopoiesis.</title>
+
+	<pages>5-22</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00307</ee>
+
+	<ee>https://www.wikidata.org/entity/Q89573824</ee>
+
+	<url>db/journals/alife/alife26.html#Beer20</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/McGregorM18a">
+
+	<author>Simon McGregor</author>
+
+	<author>Pedro A. M. Mediano</author>
+
+	<title>Measuring Fitness Effects of Agent-Environment Interactions.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00269</ee>
+
+	<ee>https://www.wikidata.org/entity/Q93367148</ee>
+
+	<url>db/journals/alife/alife24.html#McGregorM18a</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/BurgosP16">
+
+	<author>Andrés C. Burgos</author>
+
+	<author>Daniel Polani</author>
+
+	<title>An Informational Study of the Evolution of Codes and of Emerging Concepts in Populations of Agents.</title>
+
+	<pages>196-210</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00199</ee>
+
+	<ee>https://www.wikidata.org/entity/Q38395274</ee>
+
+	<url>db/journals/alife/alife22.html#BurgosP16</url>
+
+</article>
+
+<article mdate="2020-09-09" key="journals/alife/MooreOSCM20">
+
+	<author>Jason H. Moore</author>
+
+	<author>Randal S. Olson</author>
+
+	<author>Peter Schmitt</author>
+
+	<author>Yong Chen 0016</author>
+
+	<author orcid="0000-0002-4110-3714">Elisabetta Manduchi</author>
+
+	<title>How Computational Experiments Can Improve Our Understanding of the Genetic Architecture of Common Human Diseases.</title>
+
+	<pages>23-37</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00308</ee>
+
+	<ee>https://www.wikidata.org/entity/Q89573829</ee>
+
+	<url>db/journals/alife/alife26.html#MooreOSCM20</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/IkegamiHO19">
+
+	<author>Takashi Ikegami</author>
+
+	<author>Yasuhiro Hashimoto</author>
+
+	<author>Mizuki Oka</author>
+
+	<title>Open-Ended Evolution and a Mechanism of Novelties in Web Services.</title>
+
+	<pages>168-177</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00287</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92439710</ee>
+
+	<url>db/journals/alife/alife25.html#IkegamiHO19</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Silverman18">
+
+	<author>Eric Silverman</author>
+
+	<title>Bringing ALife and Complex Systems Science to Population Health Research.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00264</ee>
+
+	<ee>https://www.wikidata.org/entity/Q93367139</ee>
+
+	<url>db/journals/alife/alife24.html#Silverman18</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/MooreM17">
+
+	<author>Jared M. Moore</author>
+
+	<author>Philip K. McKinley</author>
+
+	<title>Evolution of Joint-Level Control for Quadrupedal Locomotion.</title>
+
+	<pages>58-79</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00222</ee>
+
+	<ee>https://www.wikidata.org/entity/Q40439455</ee>
+
+	<url>db/journals/alife/alife23.html#MooreM17</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Vera18">
+
+	<author>Javier Vera</author>
+
+	<title>An Agent-Based Model for the Role of Short-Term Memory Enhancement in the Emergence of Grammatical Agreement.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00261</ee>
+
+	<ee>https://www.wikidata.org/entity/Q88384736</ee>
+
+	<url>db/journals/alife/alife24.html#Vera18</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/HarringtonP19">
+
+	<author>Kyle Ira Harrington</author>
+
+	<author>Jordan B. Pollack</author>
+
+	<title>Escalation of Memory Length in Finite Populations.</title>
+
+	<pages>22-32</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00278</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92748801</ee>
+
+	<url>db/journals/alife/alife25.html#HarringtonP19</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/Cussat-BlancHB18">
+
+	<author>Sylvain Cussat-Blanc</author>
+
+	<author>Kyle Ira Harrington</author>
+
+	<author>Wolfgang Banzhaf</author>
+
+	<title>Artificial Gene Regulatory Networks - A Review.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00267</ee>
+
+	<ee>https://www.wikidata.org/entity/Q91220964</ee>
+
+	<url>db/journals/alife/alife24.html#Cussat-BlancHB18</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/AgmonGCB16">
+
+	<author>Eran Agmon</author>
+
+	<author orcid="0000-0003-0099-7480">Alexander J. Gates</author>
+
+	<author orcid="0000-0002-9033-165X">Valentin Churavy</author>
+
+	<author>Randall D. Beer</author>
+
+	<title>Exploring the Space of Viable Configurations in a Model of Metabolism-Boundary Co-construction.</title>
+
+	<pages>153-171</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00196</ee>
+
+	<ee>https://www.wikidata.org/entity/Q87400117</ee>
+
+	<url>db/journals/alife/alife22.html#AgmonGCB16</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/SayamaD15">
+
+	<author>Hiroki Sayama</author>
+
+	<author>Shelley D. Dionne</author>
+
+	<title>Studying Collective Human Decision Making and Creativity with Evolutionary Computation.</title>
+
+	<pages>379-393</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00178</ee>
+
+	<ee>https://www.wikidata.org/entity/Q40636497</ee>
+
+	<url>db/journals/alife/alife21.html#SayamaD15</url>
+
+</article>
+
+<article mdate="2021-02-11" key="journals/alife/PhillipsP20">
+
+	<author>Antin Phillips</author>
+
+	<author>Mathys C. du Plessis</author>
+
+	<title>Evolutionary Robotics Controllers with Proprioception Facilitated by Neural-Network-Based Simulators.</title>
+
+	<pages>455-483</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00331</ee>
+
+	<url>db/journals/alife/alife26.html#PhillipsP20</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Penn18">
+
+	<author>Alexandra S. Penn</author>
+
+	<title>Report on the ISAL Special Session on ALife and Society, ALife XV, Cancún, Mexico, 2016.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00249</ee>
+
+	<ee>https://www.wikidata.org/entity/Q49709787</ee>
+
+	<url>db/journals/alife/alife24.html#Penn18</url>
+
+</article>
+
+<article mdate="2020-10-26" key="journals/alife/Siqueiros-Garcia18">
+
+	<author>Jesús M. Siqueiros-García</author>
+
+	<author orcid="0000-0002-9899-5274">Tom Froese</author>
+
+	<author orcid="0000-0003-0193-3067">Carlos Gershenson</author>
+
+	<author>Wendy Aguilar</author>
+
+	<author>Hiroki Sayama</author>
+
+	<author>Eduardo Izquierdo</author>
+
+	<title>ALife and Society: Editorial Introduction to the Artificial Life Conference 2016 Special Issue.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_e_00256</ee>
+
+	<ee>https://www.wikidata.org/entity/Q49709776</ee>
+
+	<url>db/journals/alife/alife24.html#Siqueiros-Garcia18</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/SeifterR15">
+
+	<author>Jared Seifter</author>
+
+	<author>James A. Reggia</author>
+
+	<title>Lambda and the Edge of Chaos in Recurrent Neural Networks.</title>
+
+	<pages>55-71</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00152</ee>
+
+	<ee>https://www.wikidata.org/entity/Q86304807</ee>
+
+	<url>db/journals/alife/alife21.html#SeifterR15</url>
+
+</article>
+
+<article mdate="2021-04-09" key="journals/alife/LehmanCMAABBBBB20">
+
+	<author>Joel Lehman</author>
+
+	<author>Jeff Clune</author>
+
+	<author>Dusan Misevic</author>
+
+	<author>Christoph Adami</author>
+
+	<author>Lee Altenberg</author>
+
+	<author>Julie Beaulieu</author>
+
+	<author orcid="0000-0001-6744-9302">Peter J. Bentley</author>
+
+	<author>Samuel Bernard</author>
+
+	<author>Guillaume Beslon</author>
+
+	<author>David M. Bryson</author>
+
+	<author>Nick Cheney</author>
+
+	<author>Patryk Chrabaszcz</author>
+
+	<author orcid="0000-0002-3190-7073">Antoine Cully</author>
+
+	<author>Stéphane Doncieux</author>
+
+	<author>Fred C. Dyer</author>
+
+	<author>Kai Olav Ellefsen</author>
+
+	<author>Robert Feldt</author>
+
+	<author>Stephan Fischer 0002</author>
+
+	<author>Stephanie Forrest</author>
+
+	<author>Antoine Frénoy</author>
+
+	<author orcid="0000-0003-3697-4184">Christian Gagné</author>
+
+	<author>Léni K. Le Goff</author>
+
+	<author>Laura M. Grabowski</author>
+
+	<author>Babak Hodjat</author>
+
+	<author>Frank Hutter</author>
+
+	<author>Laurent Keller</author>
+
+	<author>Carole Knibbe</author>
+
+	<author>Peter Krcah</author>
+
+	<author>Richard E. Lenski</author>
+
+	<author>Hod Lipson</author>
+
+	<author>Robert MacCurdy</author>
+
+	<author>Carlos Maestre</author>
+
+	<author>Risto Miikkulainen</author>
+
+	<author>Sara Mitri</author>
+
+	<author>David E. Moriarty</author>
+
+	<author>Jean-Baptiste Mouret</author>
+
+	<author>Anh Nguyen</author>
+
+	<author>Charles Ofria</author>
+
+	<author>Marc Parizeau</author>
+
+	<author>David P. Parsons</author>
+
+	<author>Robert T. Pennock</author>
+
+	<author>William F. Punch</author>
+
+	<author>Thomas S. Ray</author>
+
+	<author>Marc Schoenauer</author>
+
+	<author>Eric Schulte</author>
+
+	<author>Karl Sims</author>
+
+	<author>Kenneth O. Stanley</author>
+
+	<author>François Taddei</author>
+
+	<author>Danesh Tarapore</author>
+
+	<author>Simon Thibault</author>
+
+	<author>Richard Watson</author>
+
+	<author>Westley Weimer</author>
+
+	<author>Jason Yosinski</author>
+
+	<title>The Surprising Creativity of Digital Evolution: A Collection of Anecdotes from the Evolutionary Computation and Artificial Life Research Communities.</title>
+
+	<pages>274-306</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00319</ee>
+
+	<ee>https://www.wikidata.org/entity/Q91761080</ee>
+
+	<url>db/journals/alife/alife26.html#LehmanCMAABBBBB20</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Bull17">
+
+	<author>Larry Bull</author>
+
+	<title>The Evolution of Sex through the Baldwin Effect.</title>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00242</ee>
+
+	<ee>https://www.wikidata.org/entity/Q49558667</ee>
+
+	<url>db/journals/alife/alife23.html#Bull17</url>
+
+</article>
+
+<article mdate="2020-10-11" key="journals/alife/LiuHL20">
+
+	<author>Yu Liu</author>
+
+	<author>Daniel Hjerpe</author>
+
+	<author>Torbjörn Lundh</author>
+
+	<title>Side Reactions Do Not Completely Disrupt Linear Self-Replicating Chemical Reaction Systems.</title>
+
+	<pages>327-337</pages>
+
+	<year>2020</year>
+
+	<volume>26</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00327</ee>
+
+	<ee>https://www.wikidata.org/entity/Q97649372</ee>
+
+	<url>db/journals/alife/alife26.html#LiuHL20</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Ripps16">
+
+	<author>David L. Ripps</author>
+
+	<title>Emergence of Signal-Based Self-Replication without Manual Design.</title>
+
+	<pages>353-363</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00205</ee>
+
+	<ee>https://www.wikidata.org/entity/Q54098645</ee>
+
+	<url>db/journals/alife/alife22.html#Ripps16</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/MiyashitaOR15">
+
+	<author>Shuhei Miyashita</author>
+
+	<author>Cagdas D. Onal</author>
+
+	<author>Daniela Rus</author>
+
+	<title>Multi-crease Self-folding by Global Heating.</title>
+
+	<pages>398-411</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00183</ee>
+
+	<ee>https://www.wikidata.org/entity/Q86642261</ee>
+
+	<url>db/journals/alife/alife21.html#MiyashitaOR15</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/EgbertKPW19">
+
+	<author>Matthew D. Egbert</author>
+
+	<author>Andrew Keane 0002</author>
+
+	<author>Claire M. Postlethwaite</author>
+
+	<author>Nelson Wong</author>
+
+	<title>Can Signal Delay be Functional? Including Delay in Evolved Robot Controllers.</title>
+
+	<pages>315-333</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00299</ee>
+
+	<ee>https://www.wikidata.org/entity/Q91163932</ee>
+
+	<url>db/journals/alife/alife25.html#EgbertKPW19</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/WeelDHE17">
+
+	<author>Berend Weel</author>
+
+	<author>M. D'Angelo</author>
+
+	<author>Evert Haasdijk</author>
+
+	<author>A. E. Eiben</author>
+
+	<title>Online Gait Learning for Modular Robots with Arbitrary Shapes and Sizes.</title>
+
+	<pages>80-104</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00223</ee>
+
+	<ee>https://www.wikidata.org/entity/Q47990847</ee>
+
+	<url>db/journals/alife/alife23.html#WeelDHE17</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/SzerlipS15">
+
+	<author>Paul A. Szerlip</author>
+
+	<author>Kenneth O. Stanley</author>
+
+	<title>Indirectly Encoding Running and Jumping Sodarace Creatures for Artificial Life.</title>
+
+	<pages>432-444</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00185</ee>
+
+	<ee>https://www.wikidata.org/entity/Q50778341</ee>
+
+	<url>db/journals/alife/alife21.html#SzerlipS15</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/MoranP19">
+
+	<author>Nick Moran</author>
+
+	<author>Jordan B. Pollack</author>
+
+	<title>Evolving Complexity in Prediction Games.</title>
+
+	<pages>74-91</pages>
+
+	<year>2019</year>
+
+	<volume>25</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00281</ee>
+
+	<ee>https://www.wikidata.org/entity/Q92748787</ee>
+
+	<url>db/journals/alife/alife25.html#MoranP19</url>
+
+</article>
+
+<article mdate="2020-05-30" key="journals/alife/LioMNNP15">
+
+	<author orcid="0000-0002-0540-5053">Pietro Liò</author>
+
+	<author>Orazio Miglino</author>
+
+	<author>Giuseppe Nicosia</author>
+
+	<author>Stefano Nolfi</author>
+
+	<author>Mario Pavone</author>
+
+	<title>Advances in Artificial Life: Synthesis and Simulation of Living Systems: Editorial.</title>
+
+	<pages>395-397</pages>
+
+	<year>2015</year>
+
+	<volume>21</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_e_00189</ee>
+
+	<ee>https://www.wikidata.org/entity/Q86642259</ee>
+
+	<url>db/journals/alife/alife21.html#LioMNNP15</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/CliffLWWOP17">
+
+	<author orcid="0000-0001-5041-4090">Oliver M. Cliff</author>
+
+	<author orcid="0000-0002-9910-8972">Joseph T. Lizier</author>
+
+	<author orcid="0000-0001-5454-6197">X. Rosalind Wang</author>
+
+	<author>Peter Wang</author>
+
+	<author orcid="0000-0002-8284-2062">Oliver Obst</author>
+
+	<author orcid="0000-0002-4215-0344">Mikhail Prokopenko</author>
+
+	<title>Quantifying Long-Range Interactions and Coherent Structure in Multi-Agent Dynamics.</title>
+
+	<pages>34-57</pages>
+
+	<year>2017</year>
+
+	<volume>23</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>1</number>
+
+	<ee>https://doi.org/10.1162/ARTL_a_00221</ee>
+
+	<ee>https://www.wikidata.org/entity/Q51566110</ee>
+
+	<url>db/journals/alife/alife23.html#CliffLWWOP17</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/HickenbothamS16">
+
+	<author>Simon Hickenbotham</author>
+
+	<author>Susan Stepney</author>
+
+	<title>Editorial/Introduction to the Artificial Life 2015 Conference Special Issue.</title>
+
+	<pages>429-430</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>4</number>
+
+	<ee>https://doi.org/10.1162/ARTL_e_00218</ee>
+
+	<ee>https://www.wikidata.org/entity/Q53813603</ee>
+
+	<url>db/journals/alife/alife22.html#HickenbothamS16</url>
+
+</article>
+
+<article mdate="2020-03-13" key="journals/alife/Nichele16">
+
+	<author>Stefano Nichele</author>
+
+	<title><i>Introduction to the Modeling and Analysis of Complex Systems.</i> H. Sayama (Ed.). (2015, Open SUNY Textbooks). Free open access PDF, 498 pp. ISBN 978-1-942341-06-2 (deluxe color edition). ISBN 978-1-942341-08-6 (print edition). ISBN 978-1-942341-09-3 (ebook).</title>
+
+	<pages>424-427</pages>
+
+	<year>2016</year>
+
+	<volume>22</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>3</number>
+
+	<ee>https://doi.org/10.1162/ARTL_r_00209</ee>
+
+	<url>db/journals/alife/alife22.html#Nichele16</url>
+
+</article>
+
+<article mdate="2020-10-26" key="journals/alife/LumacaB18">
+
+	<author>Massimo Lumaca</author>
+
+	<author orcid="0000-0001-5086-0365">Giosuè Baggio</author>
+
+	<title>Signaling Games and the Evolution of Structure in Language and Music: A Reply to Ravignani and Verhoef (2018)<sup>&#8225;</sup>.</title>
+
+	<year>2018</year>
+
+	<volume>24</volume>
+
+	<journal>Artif. Life</journal>
+
+	<number>2</number>
+
+	<ee>https://doi.org/10.1162/artl_a_00258</ee>
+
+	<ee>https://www.wikidata.org/entity/Q88384742</ee>
+
+	<url>db/journals/alife/alife24.html#LumacaB18</url>
 
 </article>
 
